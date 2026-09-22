@@ -1,0 +1,1578 @@
+03 00 00 00 13	Monster 1: 19
+03 00 00 00 00	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 02	
+04 43 6D 0F 5C	X: 237.06
+2B
+04 40 DD 1E B8	Y: 6.91
+04 43 CB 51 EC	Z: 406.64
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 32	
+				Normal drop: 32
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 2: 43
+03 00 00 00 00	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 07	
+04 43 6D 30 A4	X: 237.19
+2B
+04 40 92 8F 5C	Y: 4.58
+04 43 EF B5 C3	Z: 479.42
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 32	
+				Normal drop: 32
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2E	Monster 3: 46
+03 00 00 00 00	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 07	
+04 43 39 C2 8F	X: 185.76
+2B
+04 40 70 A3 D7	Y: 3.76
+04 43 D7 E0 00	Z: 431.75
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 33	
+				Normal drop: 33
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 4: 16
+03 00 00 00 00	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 02	
+04 43 91 AA 3D	X: 291.33
+2B
+04 41 03 0A 3D	Y: 8.19
+04 43 BE D0 A4	Z: 381.63
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 34	
+				Normal drop: 34
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 5: 16
+03 00 00 00 00	
+03 00 00 00 7C	
+				Cycles 1, 2, and 3
+				3+ players required
+03 00 00 00 02	
+04 43 73 42 8F	X: 243.26
+2B
+04 3E F5 C2 8F	Y: 0.48
+04 43 98 3E B8	Z: 304.49
+2B
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 34	
+				Normal drop: 34
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 6: 43
+03 00 00 00 00	
+03 00 00 00 7C	
+				Cycles 1, 2, and 3
+				3+ players required
+03 00 00 00 08	
+04 43 5C 85 1F	X: 220.52
+2B
+04 3E 99 99 9A	Y: 0.30
+04 44 03 88 F6	Z: 526.14
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 34	
+				Normal drop: 34
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 9F	Monster 7: 159
+03 00 00 00 00	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 08	
+04 43 07 1C 29	X: 135.11
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 F3 B7 0A	Z: 487.43
+2B
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 33	
+				Normal drop: 33
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C07000014BF
+03 00 00 00 2B	Monster 8: 43
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 00	
+04 43 81 D4 7B	X: 259.66
+2B
+04 3E 99 99 9A	Y: 0.30
+04 44 0E 1E B8	Z: 568.48
+04 3F 4A 3D 71	R: 0.79
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 9: 43
+03 00 00 00 01	
+03 00 00 00 4C	
+				Cycle 3
+				3+ players required
+03 00 00 00 00	
+04 42 D2 E6 66	X: 105.45
+2B
+04 3E 99 99 9A	Y: 0.30
+04 44 11 32 8F	Z: 580.79
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 10: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 97 C1 48	X: 303.51
+2B
+04 3E A3 D7 0A	Y: 0.32
+04 43 DC 5D 71	Z: 440.73
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0A	
+				Normal drop: 0A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 11: 19
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 00	
+04 43 89 26 66	X: 274.30
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 AE C2 8F	Z: 349.52
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0F	
+				Normal drop: 0F
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 15	Monster 12: 21
+03 00 00 00 01	
+03 00 00 00 2F	
+				Cycle 2
+				Always Spawns
+03 00 00 00 00	
+04 43 89 26 66	X: 274.30
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 AE C2 8F	Z: 349.52
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 06	
+				Normal drop: 06
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 14	Monster 13: 20
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 00	
+04 43 89 26 66	X: 274.30
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 AE C2 8F	Z: 349.52
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 06	
+				Normal drop: 06
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 14: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 4A 6E 14	X: 202.43
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 7C 02 8F	Z: 252.01
+04 00 00 00 00	R: 0.00
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 10 00 00 12	
+				Carryable? dropped: 10
+				Normal drop: 12
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2C	Monster 15: 44
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 00	
+04 42 DA 94 7B	X: 109.29
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 C4 F7 0A	Z: 393.93
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 16: 43
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 06	
+04 42 DD 0F 5C	X: 110.53
+2B
+04 3E 9E B8 52	Y: 0.31
+04 43 A3 C1 48	Z: 327.51
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 06	
+				Normal drop: 06
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2D	Monster 17: 45
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 06	
+04 42 DD 0F 5C	X: 110.53
+2B
+04 3E 9E B8 52	Y: 0.31
+04 43 A3 C1 48	Z: 327.51
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0F	
+				Normal drop: 0F
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 18: 43
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 42 51 99 9A	X: 52.40
+2B
+04 3D CC CC CD	Y: 0.10
+04 43 BC D1 EC	Z: 377.64
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 10	
+				Normal drop: 10
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 19: 43
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 BC 51 EC	X: 376.64
+2B
+04 41 15 EB 85	Y: 9.37
+04 43 B6 4B 85	Z: 364.59
+04 40 17 0A 3D	R: 2.36
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2E	Monster 20: 46
+03 00 00 00 01	
+03 00 00 00 4C	
+				Cycle 3
+				3+ players required
+03 00 00 00 00	
+04 43 C7 A8 F6	X: 399.32
+2B
+04 41 66 14 7B	Y: 14.38
+04 43 D0 22 8F	Z: 416.27
+04 40 17 0A 3D	R: 2.36
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 21: 19
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 05	
+04 43 AD D0 A4	X: 347.63
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 2C FD 71	Z: 172.99
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 07	
+				Normal drop: 07
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 15	Monster 22: 21
+03 00 00 00 01	
+03 00 00 00 2F	
+				Cycle 2
+				Always Spawns
+03 00 00 00 05	
+04 43 AD D0 A4	X: 347.63
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 2C FD 71	Z: 172.99
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 07	
+				Normal drop: 07
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 14	Monster 23: 20
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 05	
+04 43 AD D0 A4	X: 347.63
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 2C FD 71	Z: 172.99
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 07	
+				Normal drop: 07
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 24: 19
+03 00 00 00 01	
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+03 00 00 00 05	
+04 43 BB D5 C3	X: 375.67
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 0F F3 33	Z: 143.95
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 14	Monster 25: 20
+03 00 00 00 01	
+03 00 00 00 4C	
+				Cycle 3
+				3+ players required
+03 00 00 00 05	
+04 43 BB D5 C3	X: 375.67
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 0F F3 33	Z: 143.95
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 26: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 41 3A B8 52	X: 11.67
+04 3E 99 99 9A	Y: 0.30
+04 42 99 EB 85	Z: 76.96
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 20 00 00 13	
+				Carryable? dropped: 20
+				Normal drop: 13
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 9F	Monster 27: 159
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 00	
+04 42 E6 6B 85	X: 115.21
+04 3E 99 99 9A	Y: 0.30
+04 43 0E 4F 5C	Z: 142.31
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0B	
+				Normal drop: 0B
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 0A	Monster 28: 10
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 03	
+04 42 E6 6B 85	X: 115.21
+04 3E 99 99 9A	Y: 0.30
+04 43 0E 4F 5C	Z: 142.31
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0B	
+				Normal drop: 0B
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 29: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 03	
+04 43 20 94 7B	X: 160.58
+04 3E 99 99 9A	Y: 0.30
+04 43 45 1C 29	Z: 197.11
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 05	
+				Normal drop: 05
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 30: 19
+03 00 00 00 01	
+03 00 00 00 1C	
+				Cycle 1
+				3+ players required
+03 00 00 00 03	
+04 42 B0 2E 14	X: 88.09
+04 3E 99 99 9A	Y: 0.30
+04 43 5C A1 48	Z: 220.63
+04 40 17 0A 3D	R: 2.36
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 15	Monster 31: 21
+03 00 00 00 01	
+03 00 00 00 6C	
+				Cycles 2 and 3
+				3+ players required
+03 00 00 00 03	
+04 42 B0 2E 14	X: 88.09
+04 3E 99 99 9A	Y: 0.30
+04 43 5C A1 48	Z: 220.63
+04 40 17 0A 3D	R: 2.36
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 14	Monster 32: 20
+03 00 00 00 01	
+03 00 00 00 4C	
+				Cycle 3
+				3+ players required
+03 00 00 00 00	
+04 43 25 8C CD	X: 165.55
+04 3E 99 99 9A	Y: 0.30
+04 43 D1 94 7B	Z: 419.16
+04 40 17 0A 3D	R: 2.36
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 33: 19
+03 00 00 00 01	
+03 00 00 00 3F	
+				Cycles 1 and 2
+				Always Spawns
+03 00 00 00 00	
+04 43 73 F5 C3	X: 243.96
+04 3E 6B 85 1F	Y: 0.23
+04 43 D6 E8 F6	Z: 429.82
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 12	
+				Normal drop: 12
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 14	Monster 34: 20
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 00	
+04 43 73 F5 C3	X: 243.96
+04 3E 6B 85 1F	Y: 0.23
+04 43 D6 E8 F6	Z: 429.82
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 12	
+				Normal drop: 12
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 35: 19
+03 00 00 00 01	
+03 00 00 00 1E	
+				Cycle 1
+				2+ players required
+03 00 00 00 00	
+04 43 19 70 A4	X: 153.44
+04 3E 19 99 9A	Y: 0.15
+04 43 FA C8 F6	Z: 501.57
+04 40 48 F5 C3	R: 3.14
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0A	
+				Normal drop: 0A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 15	Monster 36: 21
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 19 70 A4	X: 153.44
+04 3E 19 99 9A	Y: 0.15
+04 43 FA C8 F6	Z: 501.57
+04 40 48 F5 C3	R: 3.14
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0A	
+				Normal drop: 0A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2E	Monster 37: 46
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 93 0E 14	X: 294.11
+04 42 11 7A E1	Y: 36.37
+04 43 6D 8C CD	Z: 237.55
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 38: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 93 0E 14	X: 294.11
+04 42 0E F5 C3	Y: 35.74
+04 43 49 8C CD	Z: 201.55
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 01	
+				Normal drop: 01
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 39: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 09 33 33	X: 137.20
+04 42 0B 33 33	Y: 34.80
+04 41 F6 51 EC	Z: 30.79
+2B
+04 3F C8 F5 C3	R: 1.57
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 01	
+				Normal drop: 01
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 40: 19
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 00	
+04 43 0B 33 33	X: 139.20
+04 42 0D 14 7B	Y: 35.27
+04 42 08 D7 0A	Z: 34.21
+04 3F C8 F5 C3	R: 1.57
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 01	
+				Normal drop: 01
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 15	Monster 41: 21
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 0B 33 33	X: 139.20
+04 42 0D 14 7B	Y: 35.27
+04 42 08 D7 0A	Z: 34.21
+04 3F C8 F5 C3	R: 1.57
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 1A	
+				Normal drop: 1A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 42: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 40 D4 CC CD	X: 6.65
+04 3E 99 99 9A	Y: 0.30
+04 42 02 C2 8F	Z: 32.69
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 11	
+				Normal drop: 11
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 43: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 04	
+04 42 BB 6B 85	X: 93.71
+04 3E 99 99 9A	Y: 0.30
+04 42 EB E1 48	Z: 117.94
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 01	
+				Normal drop: 01
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 44: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 04	
+04 42 02 F5 C3	X: 32.74
+04 3E 99 99 9A	Y: 0.30
+04 43 0A E8 F6	Z: 138.91
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 07	
+				Normal drop: 07
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 45: 43
+03 00 00 00 01	
+03 00 00 00 7C	
+				Cycles 1, 2, and 3
+				3+ players required
+03 00 00 00 04	
+04 42 9A 75 C3	X: 77.23
+04 3E 99 99 9A	Y: 0.30
+04 43 43 63 D7	Z: 195.39
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 11	
+				Normal drop: 11
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 46: 16
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 03 2E 14	X: 131.18
+04 41 F2 A3 D7	Y: 30.33
+04 43 A0 6A 3D	Z: 320.83
+2B
+04 3F 4A 3D 71	R: 0.79
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0A	
+				Normal drop: 0A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 9F	Monster 47: 159
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 42 EC 75 C3	X: 118.23
+04 42 07 47 AE	Y: 33.82
+04 43 B5 E3 D7	Z: 363.78
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 1B	
+				Normal drop: 1B
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 48: 16
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 7E DE B8	X: 254.87
+04 42 26 66 66	Y: 41.60
+04 43 C2 02 8F	Z: 388.02
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 06	
+				Normal drop: 06
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 49: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 7E DE B8	X: 254.87
+04 42 2C E1 48	Y: 43.22
+04 43 D6 02 8F	Z: 428.02
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0A	
+				Normal drop: 0A
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 9F	Monster 50: 159
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 01	
+04 43 E5 94 7B	X: 459.16
+2B
+04 40 41 47 AE	Y: 3.02
+04 43 8F 45 1F	Z: 286.54
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0C	
+				Normal drop: 0C
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 0A	Monster 51: 10
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 01	
+04 43 E5 94 7B	X: 459.16
+2B
+04 40 41 47 AE	Y: 3.02
+04 43 8F 45 1F	Z: 286.54
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0C	
+				Normal drop: 0C
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 52: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 01	
+04 43 C2 25 1F	X: 388.29
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 7E AB 85	Z: 254.67
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 53: 16
+03 00 00 00 01	
+03 00 00 00 7C	
+				Cycles 1, 2, and 3
+				3+ players required
+03 00 00 00 01	
+04 43 EE 2C CD	X: 476.35
+2B
+04 40 AE 66 66	Y: 5.45
+04 43 64 59 9A	Z: 228.35
+2B
+04 3F 4A 3D 71	R: 0.79
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 07	
+				Normal drop: 07
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 13	Monster 54: 19
+03 00 00 00 01	
+03 00 00 00 1F	
+				Cycle 1
+				Always Spawns
+03 00 00 00 02	
+04 43 6D 0F 5C	X: 237.06
+2B
+04 40 DD 1E B8	Y: 6.91
+04 43 CB 51 EC	Z: 406.64
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 10	
+				Normal drop: 10
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 0A	Monster 55: 10
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 02	
+04 43 6D 0F 5C	X: 237.06
+2B
+04 40 DD 1E B8	Y: 6.91
+04 43 CB 51 EC	Z: 406.64
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 1C	
+				Normal drop: 1C
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 56: 43
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 07	
+04 43 6D 30 A4	X: 237.19
+2B
+04 40 92 8F 5C	Y: 4.58
+04 43 EF B5 C3	Z: 479.42
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 10	
+				Normal drop: 10
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 9F	Monster 57: 159
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 07	
+04 43 39 C2 8F	X: 185.76
+2B
+04 40 70 A3 D7	Y: 3.76
+04 43 D7 E0 00	Z: 431.75
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 0E	
+				Normal drop: 0E
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 58: 16
+03 00 00 00 01	
+03 00 00 00 6C	
+				Cycles 2 and 3
+				3+ players required
+03 00 00 00 02	
+04 43 91 AA 3D	X: 291.33
+2B
+04 41 03 0A 3D	Y: 8.19
+04 43 BE D0 A4	Z: 381.63
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 59: 16
+03 00 00 00 01	
+03 00 00 00 7F	
+				Cycles 1, 2, and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 C6 AC CD	X: 397.35
+2B
+04 3D F5 C2 8F	Y: 0.12
+04 42 81 47 AE	Z: 64.64
+2B
+04 40 7B 85 1F	R: 3.93
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 30 00 00 01	
+				Carryable? dropped: 30
+				Normal drop: 01
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 0A	Monster 60: 10
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 00	
+04 43 0A 1C 29	X: 138.11
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 F5 37 0A	Z: 490.43
+2B
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 1C	
+				Normal drop: 1C
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 61: 16
+03 00 00 00 01	
+03 00 00 00 6C	
+				Cycles 2 and 3
+				3+ players required
+03 00 00 00 02	
+04 43 61 4A 3D	X: 225.29
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 AB D8 52	Z: 343.69
+2B
+04 3F 4A 3D 71	R: 0.79
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 10	Monster 62: 16
+03 00 00 00 01	
+03 00 00 00 7C	
+				Cycles 1, 2, and 3
+				3+ players required
+03 00 00 00 02	
+04 43 73 42 8F	X: 243.26
+2B
+04 3E F5 C2 8F	Y: 0.48
+04 43 98 3E B8	Z: 304.49
+2B
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 09	
+				Normal drop: 09
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 63: 43
+03 00 00 00 01	
+03 00 00 00 6C	
+				Cycles 2 and 3
+				3+ players required
+03 00 00 00 07	
+04 43 6C C0 00	X: 236.75
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 B0 67 AE	Z: 352.81
+2B
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 08	
+				Normal drop: 08
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 64: 43
+03 00 00 00 01	
+03 00 00 00 6C	
+				Cycles 2 and 3
+				3+ players required
+03 00 00 00 08	
+04 43 5C 85 1F	X: 220.52
+2B
+04 3E 99 99 9A	Y: 0.30
+04 44 03 88 F6	Z: 526.14
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 12	
+				Normal drop: 12
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2E	Monster 65: 46
+03 00 00 00 01	
+03 00 00 00 6F	
+				Cycles 2 and 3
+				Always Spawns
+03 00 00 00 08	
+04 43 78 85 1F	X: 248.52
+2B
+04 3E 99 99 9A	Y: 0.30
+04 44 04 88 F6	Z: 530.14
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 2B	Monster 66: 43
+03 00 00 00 01	
+03 00 00 00 4F	
+				Cycle 3
+				Always Spawns
+03 00 00 00 08	
+04 43 91 DA E1	X: 291.71
+2B
+04 3F 87 AE 14	Y: 1.06
+04 43 D5 21 48	Z: 426.26
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 00	
+03 40 00 00 04	
+03 00 00 00 02	
+				Normal drop: 02
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 92	Function call FFFF 0192
+0C
+03 00 00 00 00	Monster 67: 0
+03 00 00 00 0D	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 43 2F D7 0A	X: 175.84
+2B
+04 3F 05 1E B8	Y: 0.52
+2B
+04 43 84 DD 71	Z: 265.73
+04 40 96 B8 52	R: 4.71
+2B
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 01	Monster 68: 1
+03 00 00 00 0D	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 43 D9 A1 48	X: 435.26
+2B
+04 41 9F 0A 3D	Y: 19.88
+04 42 DD 57 0A	Z: 110.67
+2B
+04 40 48 F5 C3	R: 3.14
+2B
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 02	Monster 69: 2
+03 00 00 00 0E	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 42 A0 1E B8	X: 80.06
+2B
+04 3F DD 70 A4	Y: 1.73
+04 40 6E B8 52	Z: 3.73
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 03	Monster 70: 3
+03 00 00 00 0E	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 43 D9 A1 48	X: 435.26
+2B
+04 41 A1 0A 3D	Y: 20.13
+04 42 B5 57 0A	Z: 90.67
+2B
+04 40 48 F5 C3	R: 3.14
+2B
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 04	Monster 71: 4
+03 00 00 00 0D	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 42 C9 51 EC	X: 100.66
+2B
+04 3E C7 AE 14	Y: 0.39
+04 42 76 B8 52	Z: 61.68
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 05	Monster 72: 5
+03 00 00 00 0E	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 42 A1 51 EC	X: 80.66
+2B
+04 3E 99 99 9A	Y: 0.30
+04 42 76 B8 52	Z: 61.68
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 06	Monster 73: 6
+03 00 00 00 0D	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 42 87 51 EC	X: 67.66
+2B
+04 3E B8 51 EC	Y: 0.36
+04 41 AC A3 D7	Z: 21.58
+2B
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 07	Monster 74: 7
+03 00 00 00 0E	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 42 3E CC CD	X: 47.70
+2B
+04 3E 99 99 9A	Y: 0.30
+04 42 36 47 AE	Z: 45.57
+2B
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 08	Monster 75: 8
+03 00 00 00 0D	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 43 A8 1C 29	X: 336.22
+2B
+04 3E D1 EB 85	Y: 0.41
+2B
+04 43 12 C0 00	Z: 146.75
+2B
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C
+03 00 00 00 09	Monster 76: 9
+03 00 00 00 0E	Look into this
+03 00 00 00 3C	
+				Cycles 1 and 2
+				3+ players required
+04 43 9E 1C 29	X: 316.22
+2B
+04 3D 8F 5C 29	Y: 0.07
+04 42 FD 80 00	Z: 126.75
+2B
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 93	Function call FFFF 0193
+0C0000016F09080000167D070000173A
+03 00 00 00 02	Monster 77: 2
+04 42 A8 E6 66	X: 84.45
+2B
+04 3E 99 99 9A	Y: 0.30
+04 43 A4 C0 00	Z: 329.50
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 10	Look into this
+03 00 00 00 11	
+				Cycle 1
+				Look into this
+03 00 00 00 12	
+03 00 00 00 13	
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 94	Function call FFFF 0194
+0C
+03 00 00 00 03	Monster 78: 3
+04 43 3C 4A 3D	X: 188.29
+04 3E 99 99 9A	Y: 0.30
+04 43 E3 74 7B	Z: 454.91
+04 3F C8 F5 C3	R: 1.57
+2B
+03 00 00 00 0C	Look into this
+03 00 00 00 0D	
+				Look into this
+				Look into this
+03 00 00 00 0E	
+03 00 00 00 0F	
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 94	Function call FFFF 0194
+0C
+03 00 00 00 02	Monster 79: 2
+04 41 2C 51 EC	X: 10.77
+2B
+04 3F 6B 85 1F	Y: 0.92
+2B
+04 44 16 31 EC	Z: 600.78
+2B
+04 00 00 00 00	R: 0.00
+03 00 00 00 10	Look into this
+03 00 00 00 11	
+				Cycle 1
+				Look into this
+03 00 00 00 12	
+03 00 00 00 13	
+03 00 00 00 00	
+03 00 00 00 00	
+0A FF FF 01 94	Function call FFFF 0194
+0C0000016F0908000017490700001895
+03 00 00 00 7F	Monster 80: 127
+03 00 00 00 12	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 02	
+04 41 6B 5C 29	X: 14.71
+04 41 BF EB 85	Y: 23.99
+2B
+04 43 D1 61 48	Z: 418.76
+04 3F C8 F5 C3	R: 1.57
+2B
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 81: 127
+03 00 00 00 1D	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 04	
+04 43 2A A8 F6	X: 170.66
+04 3E 99 99 9A	Y: 0.30
+04 43 85 D5 C3	Z: 267.67
+04 3F C8 F5 C3	R: 1.57
+2B
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 82: 127
+03 00 00 00 0D	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 05	
+04 42 BD C7 AE	X: 94.89
+04 42 0B 47 AE	Y: 34.82
+04 41 4E 66 66	Z: 12.90
+04 3F C8 F5 C3	R: 1.57
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 83: 127
+03 00 00 00 13	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 06	
+04 42 88 3D 71	X: 68.12
+2B
+04 41 E1 99 9A	Y: 28.20
+2B
+04 43 B7 C8 F6	Z: 367.57
+2B
+04 00 00 00 00	R: 0.00
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 84: 127
+03 00 00 00 1E	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 07	
+04 43 0E 07 AE	X: 142.03
+04 42 07 47 AE	Y: 33.82
+04 43 D9 4A 3D	Z: 434.58
+2B
+04 00 00 00 00	R: 0.00
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 85: 127
+03 00 00 00 1F	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 08	
+04 43 72 DE B8	X: 242.87
+04 42 3C 66 66	Y: 47.10
+04 43 F0 02 8F	Z: 480.02
+2B
+04 00 00 00 00	R: 0.00
+0A FF FF 01 96	Function call FFFF 0196
+0C
+03 00 00 00 7F	Monster 86: 127
+03 00 00 00 20	Look into this
+03 00 00 00 00	
+				Look into this
+				Look into this
+03 00 00 00 09	
+04 43 A0 6E 14	X: 320.86
+2B
+04 40 B0 00 00	Y: 5.50
+04 44 2E 10 00	Z: 696.25
+2B
+04 3F 4A 3D 71	R: 0.79
+0A FF FF 01 96	Function call FFFF 0196
+0C3F3C
+Accessible solo: 01 02 05 06 07 08 0A 0B 0C 0E 0F 10 11 12 13 1A 1B 1C
+Accessible two players: 
+Accessible three players: 09
+Accessible four players: 
+Accessible only in cycle 1: 
+Accessible until cycle 2: 
+Accessible in cycle 3: 01 02 05 06 07 08 09 0A 0B 0C 0E 0F 10 11 12 13 1A 1B 1C

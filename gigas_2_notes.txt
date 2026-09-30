@@ -43088,11 +43088,11 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(682.96,0.30,409.34,0.71), drop=5)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(-682.96,0.30,-409.34,-0.71), drop=5)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(663.99,0.34,364.06,1.56), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(-663.99,0.34,-364.06,-1.56), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;

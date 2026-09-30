@@ -48340,135 +48340,135 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(159.38,0.07,3427.86,0.00), drop=18)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-159.38,-0.07,-3427.86,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(195.71,0.87,3551.36,0.00), drop=19)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-195.71,0.87,-3551.36,0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=6F, pos=(377.60,0.44,3664.18,1.57), drop=1)
+spawn_monster(monster=Lamia, cycles=6F, pos=(-377.60,-0.44,-3664.18,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(364.43,2.60,3698.33,0.79), drop=26)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-364.43,-2.60,-3698.33,0.79), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lamia, cycles=6F, pos=(343.46,0.51,3739.30,0.00), drop=1)
+spawn_monster(monster=Lamia, cycles=6F, pos=(-343.46,-0.51,-3739.30,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7C, pos=(406.97,1.25,3734.81,0.79), drop=1)
+spawn_monster(monster=Lamia, cycles=7C, pos=(-406.97,-1.25,-3734.81,0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(434.78,0.40,3819.38,0.00), drop=17)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-434.78,0.40,-3819.38,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(434.78,2.84,3867.38,0.00), drop=20)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-434.78,2.84,-3867.38,0.00), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(178.29,30.55,3766.16,0.00), drop=27)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-178.29,30.55,-3766.16,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(112.62,47.03,3890.10,1.57), drop=27)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-112.62,47.03,-3890.10,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(67.25,42.33,3761.29,1.57), drop=6)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-67.25,42.33,-3761.29,-1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Chimera, cycles=6F, pos=(55.52,45.37,3821.83,0.00), drop=1)
+spawn_monster(monster=Chimera, cycles=6F, pos=(-55.52,45.37,-3821.83,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Chimera, cycles=6F, pos=(89.71,48.87,3899.41,1.57), drop=1)
+spawn_monster(monster=Chimera, cycles=6F, pos=(-89.71,48.87,-3899.41,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(125.09,46.54,3888.66,1.57), drop=7)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-125.09,46.54,-3888.66,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(204.24,80.10,4019.65,1.57), drop=8)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-204.24,80.10,-4019.65,1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(253.24,77.75,4026.65,1.57), drop=26)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-253.24,77.75,-4026.65,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(363.88,47.64,3998.52,1.57), drop=27)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-363.88,47.64,-3998.52,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(343.74,38.89,3933.04,3.14), drop=1)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-343.74,38.89,-3933.04,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(486.35,42.05,3970.53,1.57), drop=10)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-486.35,42.05,-3970.53,1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(628.21,81.61,3947.23,0.01), drop=1)
+spawn_monster(monster=Sand Sahagin, cycles=7F, pos=(-628.21,81.61,-3947.23,0.01), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(628.89,90.61,4003.23,0.01), drop=26)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-628.89,90.61,-4003.23,0.01), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(494.56,96.00,4073.35,1.58), drop=9)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-494.56,96.00,-4073.35,1.58), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(309.53,95.42,4116.50,1.58), drop=15)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-309.53,95.42,-4116.50,1.58), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(217.31,143.90,4230.48,0.01), drop=9)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-217.31,143.90,-4230.48,0.01), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=6F, pos=(447.96,136.95,4267.08,1.58), drop=1)
+spawn_monster(monster=Sand Sahagin, cycles=6F, pos=(-447.96,136.95,-4267.08,1.58), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sand Sahagin, cycles=6F, pos=(456.11,137.21,4221.37,1.58), drop=1)
+spawn_monster(monster=Sand Sahagin, cycles=6F, pos=(-456.11,137.21,-4221.37,1.58), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=4C, pos=(569.55,146.57,4340.00,0.01), drop=1)
+spawn_monster(monster=Lamia, cycles=4C, pos=(-569.55,146.57,-4340.00,0.01), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(576.68,144.59,4267.91,1.58), drop=26)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-576.68,144.59,-4267.91,1.58), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lamia, cycles=4C, pos=(576.10,144.99,4219.91,1.58), drop=1)
+spawn_monster(monster=Lamia, cycles=4C, pos=(-576.10,144.99,-4219.91,1.58), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(656.57,147.03,4315.50,1.58), drop=6)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-656.57,147.03,-4315.50,1.58), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(671.89,146.76,4259.31,1.58), drop=16)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-671.89,146.76,-4259.31,1.58), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(89.62,148.43,4334.75,3.13), drop=7)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-89.62,148.43,-4334.75,-3.13), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(70.50,148.43,4283.69,3.13), drop=8)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-70.50,148.43,-4283.69,-3.13), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;

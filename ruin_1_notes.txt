@@ -53065,35 +53065,35 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(47.76,0.51,147.63,0.00), drop=27)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(-47.76,0.51,147.63,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(200.92,0.51,104.30,0.00), drop=2)
+spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(-200.92,0.51,104.30,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(232.74,0.51,152.63,1.57), drop=1)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(-232.74,0.51,152.63,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(324.01,0.51,113.47,1.57), drop=6)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(-324.01,0.51,113.47,1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=6C, pos=(360.74,0.51,158.19,3.14), drop=8)
+spawn_monster(monster=Skeleton (Mage), cycles=6C, pos=(-360.74,0.51,158.19,3.14), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(356.84,0.51,46.29,0.00), drop=7)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(-356.84,0.51,46.29,-0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(33.03,0.51,258.10,1.57), drop=1)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(33.03,0.51,258.10,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(129.57,0.51,139.01,0.00), drop=16)
+spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(129.57,0.51,139.01,-0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -53101,79 +53101,79 @@ spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(114.03,0.30,359.07,3.14),
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7C, pos=(192.03,0.10,299.07,1.57), drop=2)
+spawn_monster(monster=Lizardman Captain, cycles=7C, pos=(192.03,0.10,299.07,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(168.43,0.42,195.15,1.57), drop=2)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(168.43,-0.42,195.15,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Bomb, cycles=7F, pos=(280.08,0.52,224.03,0.00), carryable=48, drop=9)
+spawn_monster(monster=Bomb, cycles=7F, pos=(280.08,0.52,224.03,-0.00), carryable=48, drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Bomb, cycles=7F, pos=(389.90,0.30,288.69,1.57), drop=30)
+spawn_monster(monster=Bomb, cycles=7F, pos=(389.90,0.30,288.69,-1.57), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=6F, pos=(353.07,0.51,221.86,0.00), drop=29)
+spawn_monster(monster=Magic Plant, cycles=6F, pos=(353.07,0.51,221.86,-0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Bomb, cycles=7C, pos=(383.27,0.51,165.30,0.00), drop=30)
+spawn_monster(monster=Bomb, cycles=7C, pos=(383.27,0.51,165.30,-0.00), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(309.36,1.15,119.61,1.57), drop=28)
+spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(309.36,-1.15,119.61,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(238.55,0.77,88.24,0.00), drop=1)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(238.55,0.77,88.24,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6C, pos=(216.91,0.51,56.62,0.00), drop=2)
+spawn_monster(monster=Stone Plant, cycles=6C, pos=(216.91,0.51,-56.62,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(121.04,0.45,210.17,3.14), drop=27)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(121.04,0.45,-210.17,-3.14), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(442.02,0.67,208.74,0.00), drop=1)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(442.02,0.67,-208.74,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(382.14,0.47,176.87,4.71), drop=1)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(382.14,0.47,-176.87,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6C, pos=(399.59,0.51,234.81,0.00), drop=17)
+spawn_monster(monster=Hell Plant, cycles=6C, pos=(399.59,0.51,-234.81,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(298.69,0.51,220.12,1.57), drop=1)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(298.69,0.51,-220.12,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(432.87,0.51,382.41,0.79), drop=7)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(432.87,0.51,-382.41,-0.79), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=6E, pos=(367.87,1.38,393.75,0.00), drop=2)
+spawn_monster(monster=Lizardman Captain, cycles=6E, pos=(367.87,1.38,-393.75,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(260.93,0.51,325.94,1.57), drop=18)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(260.93,0.51,-325.94,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6C, pos=(216.98,0.15,383.27,0.00), drop=2)
+spawn_monster(monster=Hell Plant, cycles=6C, pos=(216.98,-0.15,-383.27,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(181.97,0.51,220.73,1.57), drop=8)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(181.97,0.51,-220.73,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -53181,103 +53181,103 @@ spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(210.31,0.51,0.64,3.14),
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(64.51,2.32,69.00,0.00), drop=1)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(64.51,2.32,-69.00,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6F, pos=(38.55,3.02,129.01,0.00), drop=31)
+spawn_monster(monster=Stone Plant, cycles=6F, pos=(38.55,3.02,-129.01,-0.00), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(13.10,1.84,157.09,1.57), drop=5)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(-13.10,1.84,-157.09,1.57), drop=5)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(69.54,4.13,82.60,1.57), drop=1)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(-69.54,4.13,-82.60,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6F, pos=(5.75,4.21,37.20,1.57), drop=31)
+spawn_monster(monster=Stone Plant, cycles=6F, pos=(5.75,4.21,-37.20,1.57), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=6F, pos=(186.72,0.22,359.77,0.00), drop=34)
+spawn_monster(monster=Lizardman Captain, cycles=6F, pos=(-186.72,-0.22,-359.77,0.00), drop=34)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(201.55,1.49,328.94,0.00), drop=1)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(-201.55,1.49,-328.94,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(264.63,0.51,237.01,1.57), drop=9)
+spawn_monster(monster=Skeleton (Mage), cycles=7F, pos=(-264.63,0.51,-237.01,1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(355.84,0.51,304.33,0.00), drop=21)
+spawn_monster(monster=Skeleton (Mage), cycles=7C, pos=(-355.84,0.51,-304.33,-0.00), drop=21)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6C, pos=(293.21,0.51,271.93,4.71), drop=29)
+spawn_monster(monster=Hell Plant, cycles=6C, pos=(-293.21,0.51,-271.93,-4.71), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(214.46,0.51,73.73,3.14), drop=1)
+spawn_monster(monster=Lizardman Captain, cycles=7F, pos=(-214.46,0.51,-73.73,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=1F, pos=(218.83,0.51,444.51,0.00), drop=1)
+spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=1F, pos=(-218.83,0.51,-444.51,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=6F, pos=(218.83,0.51,444.51,0.00), drop=1)
+spawn_monster(monster=Abaddon, cycles=6F, pos=(-218.83,0.51,-444.51,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=4C, pos=(75.76,0.51,454.03,0.00), drop=2)
+spawn_monster(monster=Stone Plant, cycles=4C, pos=(-75.76,0.51,-454.03,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=4C, pos=(45.76,0.51,456.01,0.00), drop=2)
+spawn_monster(monster=Stone Plant, cycles=4C, pos=(-45.76,0.51,-456.01,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=4F, pos=(63.79,0.51,402.02,0.00), drop=26)
+spawn_monster(monster=Abaddon, cycles=4F, pos=(-63.79,0.51,-402.02,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=1F, pos=(8.14,0.52,403.55,1.57), carryable=64, drop=1)
+spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=1F, pos=(8.14,-0.52,-403.55,-1.57), carryable=64, drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=6F, pos=(8.14,0.52,403.55,1.57), carryable=64, drop=26)
+spawn_monster(monster=Abaddon, cycles=6F, pos=(8.14,-0.52,-403.55,-1.57), carryable=64, drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=1C, pos=(363.86,0.38,517.00,3.14), drop=2)
+spawn_monster(monster=Hell Plant, cycles=1C, pos=(363.86,0.38,517.00,-3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=2C, pos=(363.86,0.38,517.00,3.14), drop=2)
+spawn_monster(monster=Magic Plant, cycles=2C, pos=(363.86,0.38,517.00,-3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=4C, pos=(363.86,0.38,517.00,3.14), drop=31)
+spawn_monster(monster=Stone Plant, cycles=4C, pos=(363.86,0.38,517.00,-3.14), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=1C, pos=(517.83,0.30,439.67,1.57), drop=2)
+spawn_monster(monster=Hell Plant, cycles=1C, pos=(517.83,0.30,439.67,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=2C, pos=(517.83,0.30,439.67,1.57), drop=2)
+spawn_monster(monster=Magic Plant, cycles=2C, pos=(517.83,0.30,439.67,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=4C, pos=(517.83,0.30,439.67,1.57), drop=31)
+spawn_monster(monster=Stone Plant, cycles=4C, pos=(517.83,0.30,439.67,-1.57), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=6F, pos=(454.04,0.31,530.91,2.36), drop=26)
+spawn_monster(monster=Abaddon, cycles=6F, pos=(454.04,0.31,530.91,-2.36), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
@@ -53289,7 +53289,7 @@ spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=7F, pos=(480.44,0.30,
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=4F, pos=(113.63,0.54,157.54,1.57), drop=26)
+spawn_monster(monster=Abaddon, cycles=4F, pos=(-113.63,0.54,-157.54,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;

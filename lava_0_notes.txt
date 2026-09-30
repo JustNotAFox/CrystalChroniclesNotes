@@ -51333,79 +51333,79 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(41.43,78.70,107.69,0.00), drop=18)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(-41.43,78.70,-107.69,-0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7C, pos=(34.59,73.31,67.08,1.57), drop=1)
+spawn_monster(monster=Lava Mu, cycles=7C, pos=(34.59,73.31,-67.08,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7F, pos=(22.47,82.86,140.20,0.00), drop=15)
+spawn_monster(monster=Lava Mu, cycles=7F, pos=(22.47,82.86,-140.20,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7C, pos=(49.53,89.77,182.20,0.00), drop=1)
+spawn_monster(monster=Lava Mu, cycles=7C, pos=(-49.53,89.77,-182.20,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(209.99,101.45,239.55,0.00), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(209.99,101.45,-239.55,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(334.23,81.45,128.12,0.00), drop=6)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(334.23,81.45,-128.12,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(280.41,91.86,196.68,0.00), drop=19)
+spawn_monster(monster=Lamia, cycles=7F, pos=(280.41,91.86,-196.68,-0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7C, pos=(259.39,72.67,62.78,0.00), drop=1)
+spawn_monster(monster=Lamia, cycles=7C, pos=(259.39,72.67,-62.78,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(78.61,139.71,359.82,0.00), drop=17)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(78.61,139.71,-359.82,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(367.73,154.40,416.70,1.57), drop=27)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(367.73,154.40,-416.70,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7C, pos=(348.09,144.70,358.48,1.57), drop=1)
+spawn_monster(monster=Lava Mu, cycles=7C, pos=(348.09,144.70,-358.48,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7F, pos=(317.86,159.93,448.80,0.00), drop=7)
+spawn_monster(monster=Lava Mu, cycles=7F, pos=(317.86,159.93,-448.80,-0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(170.57,178.92,470.98,0.00), drop=8)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(170.57,178.92,-470.98,-0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(220.12,207.50,545.43,0.00), drop=27)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(220.12,207.50,-545.43,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7C, pos=(20.55,149.88,424.79,0.00), drop=1)
+spawn_monster(monster=Lamia, cycles=7C, pos=(-20.55,149.88,-424.79,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(141.36,164.16,548.95,0.00), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(-141.36,164.16,-548.95,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(143.78,148.57,416.87,1.57), drop=16)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(-143.78,148.57,-416.87,1.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Mu, cycles=7F, pos=(219.35,135.37,154.86,0.79), drop=1)
+spawn_monster(monster=Lava Mu, cycles=7F, pos=(-219.35,135.37,-154.86,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(273.48,135.50,64.73,3.93), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(-273.48,135.50,-64.73,-3.93), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;

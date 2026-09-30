@@ -42976,15 +42976,15 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(1143.20,2.80,1003.69,3.14), drop=28)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(-1143.20,2.80,-1003.69,-3.14), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(1043.59,2.80,996.50,3.14), drop=28)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(-1043.59,2.80,-996.50,-3.14), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(1095.96,2.80,933.46,3.14), drop=27)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(-1095.96,2.80,-933.46,-3.14), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;

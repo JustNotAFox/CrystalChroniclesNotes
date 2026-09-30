@@ -56000,307 +56000,307 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Scorpion in Antlion boss fight, cycles=7F, pos=(250.75,0.30,2702.88,0.00))
+spawn_monster(monster=Scorpion in Antlion boss fight, cycles=7F, pos=(-250.75,0.30,-2702.88,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion in Antlion boss fight, cycles=7F, pos=(402.02,7.32,2258.44,0.00))
+spawn_monster(monster=Scorpion in Antlion boss fight, cycles=7F, pos=(-402.02,-7.32,-2258.44,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 2 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(842.29,7.11,644.10,0.00), drop=19)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-842.29,7.11,-644.10,0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lamia, cycles=6F, pos=(821.47,3.80,669.42,0.00), drop=1)
+spawn_monster(monster=Lamia, cycles=6F, pos=(-821.47,3.80,-669.42,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7C, pos=(795.97,0.30,711.52,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=7C, pos=(-795.97,0.30,-711.52,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(342.34,16.55,825.83,0.00), drop=18)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-342.34,16.55,-825.83,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=6F, pos=(377.17,13.49,840.66,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=6F, pos=(-377.17,13.49,-840.66,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7C, pos=(389.17,9.77,884.66,1.57), drop=1)
+spawn_monster(monster=Lamia, cycles=7C, pos=(-389.17,9.77,-884.66,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(815.28,2.72,556.46,0.00), drop=15)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-815.28,2.72,-556.46,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=6F, pos=(325.05,22.65,670.68,1.57), drop=1)
+spawn_monster(monster=Lamia, cycles=6F, pos=(-325.05,22.65,-670.68,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(707.60,0.49,779.74,1.57), drop=16)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-707.60,-0.49,-779.74,-1.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7C, pos=(439.97,3.93,1109.48,0.00), drop=1)
+spawn_monster(monster=Lamia, cycles=7C, pos=(-439.97,-3.93,-1109.48,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(523.97,0.57,1101.48,0.00), drop=17)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-523.97,0.57,-1101.48,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=2F, pos=(355.97,0.20,1097.48,0.00), drop=1)
+spawn_monster(monster=Electric Scorpion, cycles=2F, pos=(-355.97,0.20,-1097.48,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=4F, pos=(355.97,0.20,1097.48,0.00), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=4F, pos=(-355.97,0.20,-1097.48,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1C, pos=(419.97,3.95,1165.48,0.00), drop=15)
+spawn_monster(monster=Scorpion, cycles=1C, pos=(-419.97,-3.95,-1165.48,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=2C, pos=(419.97,3.95,1165.48,0.00), drop=15)
+spawn_monster(monster=Rock Scorpion, cycles=2C, pos=(-419.97,-3.95,-1165.48,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=4C, pos=(419.97,3.95,1165.48,0.00), drop=1)
+spawn_monster(monster=Electric Scorpion, cycles=4C, pos=(-419.97,-3.95,-1165.48,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(398.86,0.46,1880.88,0.00), drop=27)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(-398.86,0.46,-1880.88,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(346.86,6.75,1880.88,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(-346.86,6.75,-1880.88,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(346.86,6.75,1880.88,0.00), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(-346.86,6.75,-1880.88,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7C, pos=(410.86,1.85,1952.88,0.00), drop=17)
+spawn_monster(monster=Cactuar, cycles=7C, pos=(-410.86,-1.85,-1952.88,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=6F, pos=(334.86,4.53,1944.88,0.00), drop=1)
+spawn_monster(monster=Cactuar, cycles=6F, pos=(-334.86,4.53,-1944.88,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(61.48,21.46,1664.85,0.00), drop=6)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(61.48,21.46,-1664.85,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(61.48,21.46,1664.85,0.00), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(61.48,21.46,-1664.85,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(125.48,1.70,1664.85,0.00), drop=7)
+spawn_monster(monster=Lamia, cycles=7F, pos=(125.48,1.70,-1664.85,0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(57.48,15.85,1732.85,0.00), drop=8)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(57.48,15.85,-1732.85,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(129.48,8.52,1732.85,0.00), drop=6)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(129.48,8.52,-1732.85,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7C, pos=(862.66,17.44,1784.52,4.71), drop=1)
+spawn_monster(monster=Cactuar, cycles=7C, pos=(-862.66,17.44,-1784.52,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(874.66,16.74,1844.52,4.71), drop=10)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(-874.66,16.74,-1844.52,-4.71), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(874.66,16.74,1844.52,4.71), drop=10)
+spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(-874.66,16.74,-1844.52,-4.71), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=2F, pos=(862.66,17.47,1888.52,4.71), drop=1)
+spawn_monster(monster=Scorpion, cycles=2F, pos=(-862.66,17.47,-1888.52,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=4F, pos=(862.66,17.47,1888.52,4.71), drop=1)
+spawn_monster(monster=Electric Scorpion, cycles=4F, pos=(-862.66,17.47,-1888.52,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7C, pos=(1003.43,1.42,1430.42,1.57), drop=16)
+spawn_monster(monster=Cactuar, cycles=7C, pos=(1003.43,-1.42,-1430.42,-1.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(1003.43,1.62,1478.42,1.57), drop=10)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(1003.43,-1.62,-1478.42,-1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(1003.43,1.62,1478.42,1.57), drop=10)
+spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(1003.43,-1.62,-1478.42,-1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1C, pos=(1019.43,1.50,1534.42,1.57), drop=1)
+spawn_monster(monster=Scorpion, cycles=1C, pos=(1019.43,1.50,-1534.42,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=6C, pos=(1019.43,1.50,1534.42,1.57), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=6C, pos=(1019.43,1.50,-1534.42,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Cactuar, cycles=7F, pos=(540.09,0.30,2154.77,0.00), drop=27)
+spawn_monster(monster=Cactuar, cycles=7F, pos=(540.09,0.30,-2154.77,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(618.70,1.39,2108.38,1.57), drop=1)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(618.70,1.39,-2108.38,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(618.70,1.39,2108.38,1.57), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(618.70,1.39,-2108.38,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(493.41,0.30,2204.87,0.00), drop=9)
+spawn_monster(monster=Lamia, cycles=7F, pos=(493.41,0.30,-2204.87,0.00), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(697.37,17.09,1511.44,1.57), drop=1)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-697.37,-17.09,-1511.44,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(729.83,8.67,1473.56,1.57), drop=17)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-729.83,-8.67,-1473.56,-1.57), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(865.16,56.14,1409.68,4.71), drop=9)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-865.16,56.14,-1409.68,-4.71), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(698.92,55.03,1052.90,1.57), drop=1)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-698.92,55.03,-1052.90,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(783.20,60.89,1063.61,1.57), drop=9)
+spawn_monster(monster=Lamia, cycles=7F, pos=(-783.20,60.89,-1063.61,1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=2F, pos=(417.25,0.30,2422.66,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=2F, pos=(-417.25,0.30,-2422.66,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=4F, pos=(417.25,0.30,2422.66,0.00), drop=28)
+spawn_monster(monster=Electric Scorpion, cycles=4F, pos=(-417.25,0.30,-2422.66,0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=2F, pos=(321.25,2.37,2422.66,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=2F, pos=(-321.25,2.37,-2422.66,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=4F, pos=(321.25,2.37,2422.66,0.00), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=4F, pos=(-321.25,2.37,-2422.66,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(469.13,1.30,2514.54,0.00), drop=1)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(-469.13,1.30,-2514.54,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(469.13,1.30,2514.54,0.00), drop=1)
+spawn_monster(monster=Electric Scorpion, cycles=6F, pos=(-469.13,1.30,-2514.54,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(293.13,0.30,2506.54,0.00), drop=1)
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
-pop;
-spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(293.13,0.30,2506.54,0.00), drop=29)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(-293.13,0.30,-2506.54,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1C, pos=(524.48,1.73,2417.06,0.00), drop=1)
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
-pop;
-spawn_monster(monster=Electric Scorpion, cycles=6C, pos=(524.48,1.73,2417.06,0.00), drop=1)
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
-pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(220.48,3.49,2409.06,0.00), drop=1)
+spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(-293.13,0.30,-2506.54,0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(372.48,0.30,2521.06,0.00), drop=10)
+spawn_monster(monster=Scorpion, cycles=1C, pos=(-524.48,1.73,-2417.06,0.00), drop=1)
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
+pop;
+spawn_monster(monster=Electric Scorpion, cycles=6C, pos=(-524.48,1.73,-2417.06,0.00), drop=1)
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
+pop;
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-220.48,3.49,-2409.06,0.00), drop=1)
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
+pop;
+spawn_monster(monster=Zu, cycles=7F, pos=(-372.48,0.30,-2521.06,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1C, pos=(861.90,0.07,520.77,2.36), drop=1)
+spawn_monster(monster=Scorpion, cycles=1C, pos=(861.90,-0.07,-520.77,-2.36), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Electric Scorpion, cycles=6C, pos=(861.90,0.07,520.77,2.36), drop=28)
+spawn_monster(monster=Electric Scorpion, cycles=6C, pos=(861.90,-0.07,-520.77,-2.36), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=1F, pos=(900.53,2.59,540.09,3.14), drop=1)
+spawn_monster(monster=Scorpion, cycles=1F, pos=(900.53,-2.59,-540.09,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(900.53,2.59,540.09,3.14), drop=29)
+spawn_monster(monster=Rock Scorpion, cycles=6F, pos=(900.53,-2.59,-540.09,-3.14), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Lamia, cycles=7F, pos=(940.53,0.66,532.09,3.14), drop=1)
+spawn_monster(monster=Lamia, cycles=7F, pos=(940.53,-0.66,-532.09,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(924.53,2.20,564.09,3.14), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(924.53,-2.20,-564.09,-3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(377.60,3.91,1800.61,4.71), drop=20)
+spawn_monster(monster=Zu, cycles=7F, pos=(-377.60,3.91,-1800.61,-4.71), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(282.45,8.97,1916.39,0.00), drop=2)
+spawn_monster(monster=Zu, cycles=7F, pos=(282.45,8.97,-1916.39,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(479.81,4.08,1960.09,4.71), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(-479.81,-4.08,-1960.09,-4.71), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(310.15,0.30,2256.36,1.57), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(310.15,0.30,-2256.36,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(811.05,0.75,1701.25,0.00), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(811.05,0.75,-1701.25,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(230.04,11.48,1319.60,3.14), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(230.04,11.48,-1319.60,-3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(673.33,0.23,2197.28,4.71), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(-673.33,0.23,-2197.28,-4.71), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(596.54,3.60,1653.88,4.71), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(596.54,3.60,-1653.88,-4.71), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Zu, cycles=7F, pos=(305.88,1.66,1356.58,3.14), drop=26)
+spawn_monster(monster=Zu, cycles=7F, pos=(-305.88,1.66,-1356.58,-3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(325.29,19.40,494.36,0.00), drop=16)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-325.29,19.40,-494.36,0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Scorpion, cycles=7F, pos=(389.29,19.67,478.36,4.71), drop=17)
+spawn_monster(monster=Scorpion, cycles=7F, pos=(-389.29,19.67,-478.36,-4.71), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;

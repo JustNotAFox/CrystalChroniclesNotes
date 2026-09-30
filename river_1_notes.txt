@@ -53938,11 +53938,11 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Giant Crab, cycles=7F, pos=(0.00,0.00,40.00,0.00))
+spawn_monster(monster=Giant Crab, cycles=7F, pos=(0.00,0.00,-40.00,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=No enemy was visible (maybe Mu for boss fight underground?), cycles=7F, pos=(40.00,0.30,40.00,0.00), drop=1)
+spawn_monster(monster=No enemy was visible (maybe Mu for boss fight underground?), cycles=7F, pos=(40.00,0.30,-40.00,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Last int was not 0

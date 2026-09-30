@@ -49491,187 +49491,187 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(1213.49,3.69,288.42,0.00), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-1213.49,3.69,-288.42,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1464.89,3.10,393.64,1.57), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1464.89,3.10,-393.64,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1442.40,2.17,584.58,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1442.40,2.17,-584.58,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1391.11,2.70,616.79,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1391.11,2.70,-616.79,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(1201.66,2.87,695.14,1.57), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-1201.66,2.87,-695.14,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(1260.93,3.75,796.44,0.00), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-1260.93,3.75,-796.44,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(1210.17,3.50,810.28,0.00), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-1210.17,3.50,-810.28,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1154.81,2.62,535.31,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1154.81,2.62,-535.31,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1116.65,2.65,442.00,3.14), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1116.65,2.65,-442.00,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7C, pos=(1093.18,3.75,540.95,0.00), drop=1)
+spawn_monster(monster=Memoria, cycles=7C, pos=(-1093.18,3.75,-540.95,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(1071.08,2.44,603.41,0.00), drop=18)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-1071.08,2.44,-603.41,-0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(1022.89,2.60,783.68,0.00), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-1022.89,2.60,-783.68,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1009.13,2.60,673.42,0.00), drop=16)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1009.13,2.60,-673.42,-0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(961.68,2.60,737.40,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-961.68,2.60,-737.40,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(810.82,2.60,948.13,1.57), drop=9)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-810.82,2.60,-948.13,-1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(698.78,3.22,914.74,3.14), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-698.78,3.22,-914.74,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(660.93,2.68,941.37,1.57), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-660.93,2.68,-941.37,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7C, pos=(648.93,4.15,867.37,3.14), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7C, pos=(-648.93,4.15,-867.37,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(492.75,2.95,983.71,3.14), drop=19)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-492.75,2.95,-983.71,3.14), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(198.25,2.94,1124.05,1.57), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-198.25,2.94,-1124.05,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(234.25,2.92,1156.05,1.57), drop=15)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-234.25,2.92,-1156.05,1.57), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(102.97,2.90,1277.80,1.57), drop=1)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-102.97,2.90,-1277.80,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(64.97,2.97,1285.80,1.57), drop=20)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-64.97,2.97,-1285.80,-1.57), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7C, pos=(274.02,3.77,1476.36,0.00), drop=1)
+spawn_monster(monster=Memoria, cycles=7C, pos=(-274.02,3.77,-1476.36,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(243.53,2.84,1532.84,0.00), drop=9)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-243.53,2.84,-1532.84,-0.00), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(352.79,3.41,1461.59,1.57), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-352.79,3.41,-1461.59,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(561.77,2.57,1153.35,1.57), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-561.77,2.57,-1153.35,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(789.96,2.60,1121.11,1.57), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-789.96,2.60,-1121.11,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(316.26,2.60,1019.45,1.57), drop=6)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-316.26,2.60,-1019.45,-1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(114.69,2.60,1045.84,1.57), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-114.69,2.60,-1045.84,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(359.32,2.60,1187.00,1.57), drop=7)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-359.32,2.60,-1187.00,1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(258.72,2.60,1276.03,1.57), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(-258.72,2.60,-1276.03,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(158.56,2.72,1252.70,1.57), drop=8)
+spawn_monster(monster=Memoria, cycles=7F, pos=(158.56,2.72,-1252.70,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(289.26,2.87,1122.46,3.14), drop=17)
+spawn_monster(monster=Memoria, cycles=7F, pos=(289.26,2.87,-1122.46,3.14), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(165.72,2.68,941.96,3.14), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(165.72,2.68,-941.96,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Memoria, cycles=7F, pos=(379.43,2.68,832.38,1.57), drop=1)
+spawn_monster(monster=Memoria, cycles=7F, pos=(379.43,2.68,-832.38,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(1424.17,4.61,1818.10,1.57), drop=1)
+spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(-1424.17,4.61,-1818.10,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(1418.17,4.60,1884.10,1.57), drop=1)
+spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(-1418.17,4.60,-1884.10,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(1212.17,5.22,1884.10,1.57), drop=1)
+spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(-1212.17,5.22,-1884.10,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(1212.17,4.88,1832.10,1.57), drop=1)
+spawn_monster(monster=Stone Sahagin, cycles=7F, pos=(-1212.17,4.88,-1832.10,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Sahagin Lord, cycles=7F, pos=(1314.17,5.42,1856.10,0.00), drop=21)
+spawn_monster(monster=Sahagin Lord, cycles=7F, pos=(-1314.17,5.42,-1856.10,-0.00), drop=21)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(193.77,10.26,150.34,3.14), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-193.77,10.26,-150.34,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(245.60,5.92,67.84,3.14), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-245.60,5.92,-67.84,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(218.88,10.21,232.44,1.57), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-218.88,10.21,-232.44,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7C, pos=(82.36,6.77,127.33,3.14), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7C, pos=(-82.36,6.77,-127.33,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(601.16,3.91,655.75,4.17), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(601.16,3.91,655.75,-4.17), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -49683,7 +49683,7 @@ spawn_monster(monster=Abaddon, cycles=7F, pos=(557.68,4.23,1052.27,3.14), drop=2
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Abaddon, cycles=7F, pos=(654.11,5.32,868.72,0.00), drop=27)
+spawn_monster(monster=Abaddon, cycles=7F, pos=(654.11,5.32,868.72,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -49695,39 +49695,39 @@ spawn_monster(monster=Magic Plant, cycles=7F, pos=(562.84,2.69,378.77,3.14), dro
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1190.28,2.62,1292.66,0.00), drop=6)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1190.28,2.62,-1292.66,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1242.36,3.07,1233.42,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1242.36,3.07,-1233.42,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1363.35,3.47,1528.07,0.00), drop=7)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1363.35,3.47,-1528.07,-0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1310.92,3.75,1510.40,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1310.92,3.75,-1510.40,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7C, pos=(1374.24,3.09,1472.02,0.00), drop=8)
+spawn_monster(monster=Sahagin, cycles=7C, pos=(-1374.24,3.09,-1472.02,-0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(108.00,2.80,791.75,3.14), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-108.00,2.80,-791.75,3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(58.87,3.30,481.19,3.14), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-58.87,3.30,-481.19,3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(151.64,8.46,95.70,3.14), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7F, pos=(-151.64,8.46,-95.70,3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Conall Curach Flan, cycles=7C, pos=(244.13,8.37,152.86,3.14), drop=26)
+spawn_monster(monster=Conall Curach Flan, cycles=7C, pos=(-244.13,8.37,-152.86,3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;

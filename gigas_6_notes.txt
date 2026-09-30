@@ -44015,23 +44015,23 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(713.39,0.30,435.17,4.71), drop=8)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(713.39,0.30,-435.17,-4.71), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(720.04,0.30,495.24,5.50), drop=7)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(720.04,0.30,-495.24,-5.50), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(666.00,0.30,594.61,3.14), drop=6)
+spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(666.00,0.30,-594.61,-3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7C, pos=(676.12,0.30,360.08,3.93), drop=1)
+spawn_monster(monster=Gremlin, cycles=7C, pos=(676.12,0.30,-360.08,-3.93), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=6F, pos=(632.30,19.05,461.91,4.71), drop=1)
+spawn_monster(monster=Coeurl, cycles=6F, pos=(632.30,19.05,-461.91,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;

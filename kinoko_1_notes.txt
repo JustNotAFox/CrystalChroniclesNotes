@@ -55833,7 +55833,7 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Malboro, cycles=7F, pos=(7.53,0.30,78.29,0.00))
+spawn_monster(monster=Malboro, cycles=7F, pos=(7.53,0.30,-78.29,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
@@ -55847,32 +55847,32 @@ Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Tiny Worm, cycles=2C, pos=(44.29,0.30,42.96,1.57))
+spawn_monster(monster=Tiny Worm, cycles=2C, pos=(44.29,0.30,42.96,-1.57))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Tiny Worm, cycles=2C, pos=(44.29,0.30,42.96,4.71))
+spawn_monster(monster=Tiny Worm, cycles=2C, pos=(-44.29,0.30,42.96,-4.71))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Stone Plant in Malboro boss fight Cycle 3, cycles=4C, pos=(44.29,0.30,110.96,2.36))
+spawn_monster(monster=Stone Plant in Malboro boss fight Cycle 3, cycles=4C, pos=(44.29,0.30,110.96,-2.36))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Stone Plant in Malboro boss fight Cycle 3, cycles=4C, pos=(48.47,0.30,110.18,3.93))
+spawn_monster(monster=Stone Plant in Malboro boss fight Cycle 3, cycles=4C, pos=(-48.47,0.30,110.18,-3.93))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Hell Plant in Malboro boss fight Cycle 1, cycles=3F, pos=(50.61,0.30,10.17,0.00))
+spawn_monster(monster=Hell Plant in Malboro boss fight Cycle 1, cycles=3F, pos=(-50.61,0.30,10.17,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Magic Plant in Malboro boss fight Cycle 2, cycles=4F, pos=(50.61,0.30,10.17,0.00))
+spawn_monster(monster=Magic Plant in Malboro boss fight Cycle 2, cycles=4F, pos=(-50.61,0.30,10.17,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Last int was not 0

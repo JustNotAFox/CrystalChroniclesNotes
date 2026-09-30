@@ -48099,95 +48099,95 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=7F, pos=(490.30,0.30,2442.52,1.57), drop=10)
+spawn_monster(monster=Orc (Axe), cycles=7F, pos=(490.30,0.30,-2442.52,1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=7F, pos=(609.30,0.30,2834.96,1.57), drop=8)
+spawn_monster(monster=Orc (Axe), cycles=7F, pos=(609.30,0.30,-2834.96,1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Bat, cycles=6F, pos=(844.94,0.30,3010.28,1.57), drop=2)
+spawn_monster(monster=Bat, cycles=6F, pos=(844.94,0.30,-3010.28,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=6F, pos=(659.91,0.30,3364.52,0.00), drop=2)
+spawn_monster(monster=Wraith, cycles=6F, pos=(659.91,0.30,-3364.52,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Orc (Mage), cycles=7F, pos=(364.29,0.30,3219.51,1.57), drop=7)
+spawn_monster(monster=Orc (Mage), cycles=7F, pos=(364.29,0.30,-3219.51,1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=6F, pos=(441.81,0.30,3379.29,0.00), drop=2)
+spawn_monster(monster=Wraith, cycles=6F, pos=(441.81,0.30,-3379.29,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1F, pos=(622.70,0.00,2588.35,1.57), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1F, pos=(622.70,0.00,-2588.35,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=6F, pos=(622.70,0.00,2588.35,1.57), drop=30)
+spawn_monster(monster=Ice Bomb, cycles=6F, pos=(622.70,0.00,-2588.35,-1.57), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1C, pos=(730.70,0.00,2588.35,1.57), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1C, pos=(730.70,0.00,-2588.35,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=6C, pos=(730.70,0.00,2588.35,1.57), drop=30)
+spawn_monster(monster=Ice Bomb, cycles=6C, pos=(730.70,0.00,-2588.35,-1.57), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=7F, pos=(658.40,0.30,2638.69,0.00), drop=16)
+spawn_monster(monster=Orc (Axe), cycles=7F, pos=(658.40,0.30,-2638.69,0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1C, pos=(707.84,0.00,3111.32,1.57), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1C, pos=(707.84,0.00,-3111.32,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=6C, pos=(707.84,0.00,3111.32,1.57), drop=31)
+spawn_monster(monster=Thunder Bomb, cycles=6C, pos=(707.84,0.00,-3111.32,1.57), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1F, pos=(600.35,0.00,3109.10,1.57), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1F, pos=(600.35,0.00,-3109.10,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=6F, pos=(600.35,0.00,3109.10,1.57), drop=31)
+spawn_monster(monster=Thunder Bomb, cycles=6F, pos=(600.35,0.00,-3109.10,1.57), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=7F, pos=(661.76,0.30,3173.73,0.00), drop=17)
+spawn_monster(monster=Orc (Axe), cycles=7F, pos=(661.76,0.30,-3173.73,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Orc (Mage), cycles=7F, pos=(659.64,0.30,3430.92,3.14), drop=6)
+spawn_monster(monster=Orc (Mage), cycles=7F, pos=(659.64,0.30,-3430.92,-3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1F, pos=(716.72,0.00,3431.79,2.36), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1F, pos=(716.72,0.00,-3431.79,-2.36), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=6F, pos=(716.72,0.00,3431.79,2.36), drop=1)
+spawn_monster(monster=Ice Bomb, cycles=6F, pos=(716.72,0.00,-3431.79,-2.36), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=6C, pos=(587.10,0.30,3458.91,2.36), drop=2)
+spawn_monster(monster=Thunder Bomb, cycles=6C, pos=(587.10,0.30,-3458.91,-2.36), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=7C, pos=(674.64,0.30,3494.81,0.00), drop=21)
+spawn_monster(monster=Orc (Axe), cycles=7C, pos=(674.64,0.30,-3494.81,0.00), drop=21)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Orc (Axe), cycles=1F, pos=(659.46,2.18,3515.97,0.00), drop=1)
+spawn_monster(monster=Orc (Axe), cycles=1F, pos=(659.46,2.18,-3515.97,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Ogre, cycles=6F, pos=(659.46,2.18,3515.97,0.00), drop=28)
+spawn_monster(monster=Ogre, cycles=6F, pos=(659.46,2.18,-3515.97,0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;

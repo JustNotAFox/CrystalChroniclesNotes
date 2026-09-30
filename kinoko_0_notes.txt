@@ -55898,15 +55898,15 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Hell Plant, cycles=4F, pos=(285.73,0.41,303.52,3.14), drop=2)
+spawn_monster(monster=Hell Plant, cycles=4F, pos=(-285.73,0.41,303.52,-3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=1F, pos=(572.00,11.85,62.11,0.00), drop=19)
+spawn_monster(monster=Hell Plant, cycles=1F, pos=(-572.00,11.85,62.11,-0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(125.75,27.25,12.62,0.79), drop=15)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(125.75,27.25,12.62,-0.79), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55914,231 +55914,231 @@ spawn_monster(monster=Hell Plant, cycles=7F, pos=(109.17,25.69,169.21,3.14), dro
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(453.76,18.06,87.56,0.79), drop=20)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(453.76,18.06,87.56,-0.79), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(583.81,10.62,230.74,1.57), drop=10)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(583.81,-10.62,-230.74,1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(32.35,0.67,152.97,1.57), drop=5)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(32.35,-0.67,-152.97,1.57), drop=5)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6F, pos=(719.18,56.30,342.98,4.71), drop=19)
+spawn_monster(monster=Hell Plant, cycles=6F, pos=(-719.18,-56.30,342.98,-4.71), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6F, pos=(683.05,56.30,155.67,0.79), drop=27)
+spawn_monster(monster=Hell Plant, cycles=6F, pos=(-683.05,-56.30,-155.67,-0.79), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(277.10,2.09,109.58,1.57), drop=33)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(277.10,-2.09,-109.58,1.57), drop=33)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6F, pos=(10.74,1.86,173.29,0.00), drop=10)
+spawn_monster(monster=Gremlin, cycles=6F, pos=(-10.74,1.86,173.29,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=1F, pos=(349.36,0.41,260.65,1.57), drop=18)
+spawn_monster(monster=Tiny Worm, cycles=1F, pos=(-349.36,0.41,260.65,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ahriman, cycles=6F, pos=(349.36,0.41,260.65,1.57), drop=18)
+spawn_monster(monster=Ahriman, cycles=6F, pos=(-349.36,0.41,260.65,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=4C, pos=(384.07,0.41,237.34,1.57), drop=21)
+spawn_monster(monster=Hedgehog Pie, cycles=4C, pos=(-384.07,0.41,237.34,1.57), drop=21)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6F, pos=(398.63,1.48,278.47,1.57), drop=16)
+spawn_monster(monster=Gremlin, cycles=6F, pos=(-398.63,-1.48,278.47,1.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7C, pos=(451.60,0.53,183.50,0.00), drop=15)
+spawn_monster(monster=Gremlin, cycles=7C, pos=(-451.60,0.53,183.50,-0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(106.33,24.74,30.03,1.57), drop=28)
+spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(106.33,24.74,30.03,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(106.33,24.74,30.03,1.57), drop=35)
+spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(106.33,24.74,30.03,-1.57), drop=35)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(526.37,1.04,77.50,0.00), drop=16)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(-526.37,1.04,-77.50,-0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=7F, pos=(584.47,4.29,33.72,0.00), drop=17)
+spawn_monster(monster=Tiny Worm, cycles=7F, pos=(-584.47,4.29,-33.72,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=7C, pos=(531.83,12.74,25.39,0.00), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=7C, pos=(-531.83,12.74,-25.39,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7F, pos=(419.24,6.20,22.81,1.57), drop=1)
+spawn_monster(monster=Gremlin, cycles=7F, pos=(-419.24,6.20,-22.81,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=7C, pos=(295.83,22.01,145.84,0.00), drop=2)
+spawn_monster(monster=Hedgehog Pie, cycles=7C, pos=(-295.83,22.01,-145.84,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ahriman, cycles=7F, pos=(257.83,20.15,183.84,0.00), drop=26)
+spawn_monster(monster=Ahriman, cycles=7F, pos=(-257.83,20.15,-183.84,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7F, pos=(257.82,20.60,14.43,0.00), drop=8)
+spawn_monster(monster=Gremlin, cycles=7F, pos=(-257.82,20.60,-14.43,-0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7F, pos=(172.41,21.33,59.81,1.57), drop=7)
+spawn_monster(monster=Gremlin, cycles=7F, pos=(-172.41,21.33,59.81,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6F, pos=(116.26,26.25,147.53,3.14), drop=6)
+spawn_monster(monster=Gremlin, cycles=6F, pos=(116.26,26.25,147.53,-3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=7C, pos=(268.84,27.15,152.94,1.57), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=7C, pos=(268.84,27.15,152.94,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=7F, pos=(266.84,27.15,230.94,1.57), drop=17)
+spawn_monster(monster=Tiny Worm, cycles=7F, pos=(266.84,27.15,230.94,-1.57), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Ahriman, cycles=1F, pos=(338.53,27.15,143.92,0.00), drop=18)
+spawn_monster(monster=Ahriman, cycles=1F, pos=(338.53,27.15,143.92,-0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Ochu, cycles=6F, pos=(338.53,27.15,143.92,0.00), drop=26)
+spawn_monster(monster=Ochu, cycles=6F, pos=(338.53,27.15,143.92,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7C, pos=(344.33,27.15,220.87,1.57), drop=2)
+spawn_monster(monster=Gremlin, cycles=7C, pos=(344.33,27.15,220.87,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(465.24,15.72,108.38,0.79), drop=16)
+spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(465.24,15.72,108.38,-0.79), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=4F, pos=(465.24,15.72,108.38,0.79), drop=36)
+spawn_monster(monster=Stone Hedgehog, cycles=4F, pos=(465.24,15.72,108.38,-0.79), drop=36)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ahriman, cycles=7F, pos=(661.18,17.63,3.38,1.57), drop=19)
+spawn_monster(monster=Ahriman, cycles=7F, pos=(661.18,-17.63,-3.38,-1.57), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(697.18,21.08,59.38,0.00), drop=28)
+spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(697.18,-21.08,-59.38,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=4F, pos=(697.18,21.08,59.38,0.00), drop=36)
+spawn_monster(monster=Stone Hedgehog, cycles=4F, pos=(697.18,-21.08,-59.38,-0.00), drop=36)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=7C, pos=(589.04,17.11,211.44,1.57), drop=17)
+spawn_monster(monster=Hedgehog Pie, cycles=7C, pos=(589.04,-17.11,-211.44,1.57), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(46.34,1.65,138.66,1.57), drop=28)
+spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(46.34,-1.65,-138.66,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(46.34,1.65,138.66,1.57), drop=35)
+spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(46.34,-1.65,-138.66,1.57), drop=35)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=6F, pos=(298.00,0.26,111.85,1.57), drop=28)
+spawn_monster(monster=Hedgehog Pie, cycles=6F, pos=(298.00,-0.26,-111.85,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7F, pos=(125.57,0.41,276.34,0.00), drop=34)
+spawn_monster(monster=Gremlin, cycles=7F, pos=(-125.57,0.41,-276.34,-0.00), drop=34)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(82.94,0.41,417.46,0.00), drop=31)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(-82.94,0.41,-417.46,-0.00), drop=31)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=7F, pos=(168.94,0.45,417.46,0.00), drop=32)
+spawn_monster(monster=Hell Plant, cycles=7F, pos=(-168.94,0.45,-417.46,-0.00), drop=32)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hell Plant, cycles=6C, pos=(124.80,0.41,472.60,0.00), drop=27)
+spawn_monster(monster=Hell Plant, cycles=6C, pos=(-124.80,0.41,-472.60,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1C, pos=(126.89,0.41,437.63,0.00), drop=28)
+spawn_monster(monster=Hedgehog Pie, cycles=1C, pos=(-126.89,0.41,-437.63,0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ochu, cycles=6F, pos=(126.89,0.41,415.63,0.00), drop=30)
+spawn_monster(monster=Ochu, cycles=6F, pos=(-126.89,0.41,-415.63,0.00), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Ahriman, cycles=6C, pos=(664.43,56.30,140.92,1.57), drop=29)
+spawn_monster(monster=Ice Ahriman, cycles=6C, pos=(-664.43,-56.30,-140.92,-1.57), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6E, pos=(710.42,56.78,385.56,4.71), drop=2)
+spawn_monster(monster=Stone Plant, cycles=6E, pos=(-710.42,-56.78,385.56,-4.71), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6F, pos=(746.25,56.30,310.25,0.00), drop=2)
+spawn_monster(monster=Stone Plant, cycles=6F, pos=(-746.25,-56.30,310.25,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6C, pos=(684.25,56.17,312.25,0.00), drop=2)
+spawn_monster(monster=Gremlin, cycles=6C, pos=(-684.25,-56.17,312.25,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Ice Ahriman, cycles=6E, pos=(749.06,59.18,164.75,0.00), drop=29)
+spawn_monster(monster=Ice Ahriman, cycles=6E, pos=(-749.06,-59.18,-164.75,0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6F, pos=(700.67,56.30,159.56,0.00), drop=2)
+spawn_monster(monster=Gremlin, cycles=6F, pos=(-700.67,-56.30,-159.56,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6C, pos=(525.11,56.30,219.11,1.57), drop=2)
+spawn_monster(monster=Gremlin, cycles=6C, pos=(-525.11,-56.30,-219.11,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6C, pos=(318.20,56.30,413.64,1.57), drop=7)
+spawn_monster(monster=Gremlin, cycles=6C, pos=(-318.20,-56.30,-413.64,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Ochu, cycles=6F, pos=(403.17,56.30,506.36,0.00), drop=30)
+spawn_monster(monster=Ochu, cycles=6F, pos=(-403.17,-56.30,-506.36,0.00), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6F, pos=(435.11,56.30,485.11,0.00), drop=6)
+spawn_monster(monster=Stone Plant, cycles=6F, pos=(-435.11,-56.30,-485.11,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Plant, cycles=6F, pos=(375.11,56.30,485.11,0.00), drop=9)
+spawn_monster(monster=Stone Plant, cycles=6F, pos=(-375.11,-56.30,-485.11,-0.00), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=4F, pos=(346.82,2.99,472.34,1.57), drop=2)
+spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=4F, pos=(346.82,-2.99,472.34,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=4C, pos=(356.82,2.99,436.34,1.57), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=4C, pos=(356.82,-2.99,436.34,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=4F, pos=(370.82,2.99,496.34,1.57), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=4F, pos=(370.82,-2.99,496.34,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
@@ -56150,15 +56150,15 @@ spawn_monster(monster=Tiny Worm, cycles=4E, pos=(702.93,4.48,120.95,0.00), drop=
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=4F, pos=(670.29,2.06,187.32,0.00), drop=26)
+spawn_monster(monster=Mushroom Forest Carrion Worm, cycles=4F, pos=(670.29,-2.06,187.32,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=4F, pos=(696.29,3.10,139.32,0.00), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=4F, pos=(696.29,3.10,139.32,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Tiny Worm, cycles=4F, pos=(654.29,2.25,137.32,0.00), drop=2)
+spawn_monster(monster=Tiny Worm, cycles=4F, pos=(654.29,2.25,137.32,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;

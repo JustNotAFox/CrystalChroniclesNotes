@@ -48453,143 +48453,143 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(208.43,28.81,240.56,0.00), drop=6)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-208.43,28.81,-240.56,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(11.59,83.70,463.79,4.71), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(11.59,83.70,-463.79,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(79.11,104.80,566.81,0.79), drop=7)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-79.11,104.80,-566.81,-0.79), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(210.10,74.89,440.95,0.79), drop=13)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(210.10,74.89,-440.95,-0.79), drop=13)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(146.51,85.11,472.55,0.00), drop=8)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(146.51,85.11,-472.55,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(447.32,140.35,704.39,1.57), drop=27)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(447.32,140.35,-704.39,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(346.72,176.94,897.89,0.00), drop=11)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(346.72,176.94,-897.89,0.00), drop=11)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(289.98,166.88,835.28,0.79), drop=1)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(289.98,166.88,-835.28,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(180.89,175.03,883.96,1.57), drop=28)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(180.89,175.03,-883.96,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(161.37,136.11,694.26,0.00), drop=14)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(161.37,136.11,-694.26,0.00), drop=14)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(25.19,183.54,938.40,0.00), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(-25.19,183.54,-938.40,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(102.15,168.88,823.54,0.79), drop=1)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-102.15,168.88,-823.54,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(219.96,153.22,767.76,0.00), drop=1)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-219.96,153.22,-767.76,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(310.39,165.51,806.18,1.57), drop=28)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-310.39,165.51,-806.18,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(433.94,170.90,880.65,0.00), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(-433.94,170.90,-880.65,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(424.89,128.80,666.36,0.00), drop=19)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-424.89,128.80,-666.36,0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(164.86,99.20,533.77,5.50), drop=12)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-164.86,99.20,-533.77,-5.50), drop=12)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(442.21,24.83,227.65,3.14), drop=10)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-442.21,24.83,-227.65,-3.14), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(373.67,86.96,475.59,5.50), drop=18)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(373.67,86.96,-475.59,-5.50), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(116.40,45.33,320.42,0.79), drop=10)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-116.40,45.33,-320.42,-0.79), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(329.15,95.72,521.24,3.93), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(329.15,95.72,-521.24,-3.93), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(307.70,90.10,488.47,0.79), drop=1)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(307.70,90.10,-488.47,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(305.97,104.25,564.93,4.71), drop=16)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-305.97,104.25,-564.93,-4.71), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(167.67,33.22,256.33,0.79), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(-167.67,33.22,-256.33,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(38.20,70.79,425.50,0.00), drop=27)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-38.20,70.79,-425.50,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(352.92,16.59,166.14,0.79), drop=10)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(352.92,16.59,-166.14,-0.79), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(381.26,24.03,208.15,0.00), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(381.26,24.03,-208.15,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(431.53,147.70,743.93,0.00), drop=15)
+spawn_monster(monster=Lava Ahriman, cycles=7F, pos=(431.53,147.70,-743.93,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(270.65,173.96,877.62,0.00), drop=1)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(270.65,173.96,-877.62,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7C, pos=(22.99,171.76,838.35,0.00), drop=1)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7C, pos=(22.99,171.76,-838.35,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(81.01,174.58,846.35,0.00), drop=27)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7F, pos=(-81.01,174.58,-846.35,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(403.20,150.66,757.93,0.00), drop=28)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(-403.20,150.66,-757.93,0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7C, pos=(401.09,162.66,805.15,0.00), drop=1)
+spawn_monster(monster=Rebena Te Ra Skeleton Mage, cycles=7C, pos=(-401.09,162.66,-805.15,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(94.73,35.97,272.10,0.79), drop=10)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(94.73,35.97,-272.10,-0.79), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lava Ahriman, cycles=7C, pos=(128.68,41.66,306.04,0.00), drop=26)
+spawn_monster(monster=Lava Ahriman, cycles=7C, pos=(128.68,41.66,-306.04,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;

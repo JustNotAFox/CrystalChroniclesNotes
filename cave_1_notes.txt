@@ -48361,23 +48361,23 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(866.41,55.95,657.44,1.57), drop=20)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(866.41,-55.95,657.44,-1.57), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(977.71,55.96,718.74,1.30), drop=18)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(977.71,-55.96,718.74,1.30), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7C, pos=(923.49,55.95,650.72,3.14), drop=2)
+spawn_monster(monster=Sahagin, cycles=7C, pos=(923.49,-55.95,650.72,3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(800.92,23.13,411.23,3.54), drop=9)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(800.92,-23.13,411.23,3.54), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(768.02,23.13,459.15,1.57), drop=9)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(768.02,-23.13,459.15,-1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -48385,19 +48385,19 @@ spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(656.87,0.09,227.88,1.5
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(702.01,0.02,202.76,0.00), drop=19)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(702.01,-0.02,202.76,-0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6C, pos=(748.91,0.02,202.59,0.00), drop=2)
+spawn_monster(monster=Sonic Bat, cycles=6C, pos=(748.91,-0.02,202.59,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(307.52,0.01,110.87,1.57), drop=26)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(307.52,-0.01,110.87,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6F, pos=(343.92,0.01,54.69,0.00), drop=1)
+spawn_monster(monster=Sonic Bat, cycles=6F, pos=(343.92,-0.01,54.69,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -48405,15 +48405,15 @@ spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(202.69,0.18,39.84,1.57
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(262.76,0.01,11.47,0.00), drop=6)
+spawn_monster(monster=Gigas, cycles=7F, pos=(262.76,-0.01,-11.47,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6F, pos=(284.34,0.01,86.46,0.00), drop=1)
+spawn_monster(monster=Sonic Bat, cycles=6F, pos=(284.34,-0.01,-86.46,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(112.18,0.00,63.82,0.00), drop=17)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(112.18,-0.00,-63.82,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -48421,163 +48421,163 @@ spawn_monster(monster=Sonic Bat, cycles=6F, pos=(105.18,0.01,67.21,1.57), drop=7
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(27.76,0.00,14.05,1.57), drop=1)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(27.76,-0.00,-14.05,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(81.76,0.00,11.05,1.57), drop=28)
+spawn_monster(monster=Gigas, cycles=7F, pos=(81.76,-0.00,-11.05,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(236.62,12.58,61.04,1.57), drop=8)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-236.62,12.58,-61.04,1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(220.62,12.58,111.68,0.00), drop=26)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(-220.62,12.58,-111.68,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(177.84,12.58,135.19,0.00), drop=2)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-177.84,12.58,-135.19,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=6F, pos=(172.02,12.58,219.84,0.00), drop=10)
+spawn_monster(monster=Cockatrice, cycles=6F, pos=(-172.02,12.58,-219.84,-0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6F, pos=(180.24,12.58,311.81,0.00), drop=2)
+spawn_monster(monster=Sonic Bat, cycles=6F, pos=(-180.24,12.58,-311.81,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(147.48,12.58,370.01,0.00), drop=1)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(-147.48,12.58,-370.01,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7C, pos=(106.09,12.58,384.00,0.00), drop=15)
+spawn_monster(monster=Cockatrice, cycles=7C, pos=(-106.09,12.58,-384.00,-0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(127.97,12.58,395.22,0.20), drop=8)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-127.97,12.58,-395.22,0.20), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(84.98,12.58,468.05,1.87), drop=10)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-84.98,12.58,-468.05,1.87), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7C, pos=(173.09,12.58,410.27,0.79), drop=16)
+spawn_monster(monster=Sahagin, cycles=7C, pos=(-173.09,12.58,-410.27,-0.79), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(60.24,12.58,275.02,1.57), drop=1)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-60.24,12.58,-275.02,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(48.07,12.58,316.72,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-48.07,12.58,-316.72,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(486.57,0.01,176.32,1.57), drop=26)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(486.57,-0.01,-176.32,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(560.31,0.01,152.27,1.57), drop=27)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(560.31,-0.01,-152.27,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7C, pos=(1149.76,23.15,483.68,0.70), drop=2)
+spawn_monster(monster=Sahagin, cycles=7C, pos=(1149.76,-23.15,483.68,-0.70), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1130.60,23.14,441.58,1.57), drop=6)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1130.60,-23.14,441.58,-1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1084.05,23.14,438.38,0.00), drop=7)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1084.05,-23.14,438.38,-0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1138.93,23.14,384.66,1.57), drop=8)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1138.93,-23.14,384.66,1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1090.65,0.02,197.45,2.14), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1090.65,-0.02,197.45,2.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1054.80,0.02,170.60,3.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1054.80,-0.02,170.60,3.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7C, pos=(1156.17,0.02,102.16,1.57), drop=2)
+spawn_monster(monster=Cockatrice, cycles=7C, pos=(1156.17,-0.02,-102.16,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6F, pos=(1223.36,0.02,165.13,0.00), drop=10)
+spawn_monster(monster=Sonic Bat, cycles=6F, pos=(1223.36,-0.02,-165.13,-0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(1307.19,0.02,152.27,0.00), drop=1)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(1307.19,-0.02,-152.27,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1325.43,14.44,450.55,3.14), drop=9)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(1325.43,14.44,-450.55,3.14), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(1463.99,14.30,430.05,1.57), drop=26)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(1463.99,14.30,-430.05,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(1423.99,14.44,430.05,1.57), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(1423.99,14.44,-430.05,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6C, pos=(1437.99,14.44,403.05,1.57), drop=2)
+spawn_monster(monster=Sonic Bat, cycles=6C, pos=(1437.99,14.44,-403.05,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7F, pos=(961.90,0.02,270.47,0.00), drop=27)
+spawn_monster(monster=Cockatrice, cycles=7F, pos=(961.90,-0.02,-270.47,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(983.56,0.02,215.58,0.00), drop=1)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(983.56,-0.02,-215.58,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Sonic Bat, cycles=6F, pos=(965.43,0.02,157.19,0.00), drop=1)
+spawn_monster(monster=Sonic Bat, cycles=6F, pos=(965.43,-0.02,-157.19,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(888.38,0.02,132.59,3.14), drop=1)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(888.38,-0.02,-132.59,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Cockatrice, cycles=7C, pos=(874.09,0.02,185.98,1.57), drop=26)
+spawn_monster(monster=Cockatrice, cycles=7C, pos=(874.09,-0.02,-185.98,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gigas, cycles=6C, pos=(933.05,0.02,217.87,0.00), drop=2)
+spawn_monster(monster=Gigas, cycles=6C, pos=(933.05,-0.02,-217.87,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(891.08,0.02,263.35,0.00), drop=28)
+spawn_monster(monster=Gigas, cycles=7F, pos=(891.08,-0.02,-263.35,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gigas, cycles=6C, pos=(1273.61,0.02,212.66,0.00), drop=28)
+spawn_monster(monster=Gigas, cycles=6C, pos=(1273.61,-0.02,-212.66,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Gigas, cycles=6C, pos=(108.23,12.58,308.64,0.00), drop=28)
+spawn_monster(monster=Gigas, cycles=6C, pos=(-108.23,12.58,-308.64,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Gigas, cycles=6C, pos=(844.08,0.02,145.26,1.57), drop=28)
+spawn_monster(monster=Gigas, cycles=6C, pos=(844.08,-0.02,-145.26,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Gigas, cycles=6C, pos=(884.60,0.02,223.43,1.57), drop=28)
+spawn_monster(monster=Gigas, cycles=6C, pos=(884.60,-0.02,-223.43,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;

@@ -53994,7 +53994,7 @@ spawn_monster(monster=Gargoyle, cycles=7F, pos=(605.80,0.30,281.43,0.02), drop=1
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7C, pos=(658.78,0.30,340.56,1.55), drop=1)
+spawn_monster(monster=Gargoyle, cycles=7C, pos=(658.78,0.30,340.56,-1.55), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -54010,87 +54010,87 @@ spawn_monster(monster=Wraith, cycles=7F, pos=(471.28,0.30,1.73,0.02), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(497.93,0.27,80.15,5.50), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(497.93,0.27,-80.15,-5.50), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(497.93,0.27,80.15,5.50), drop=1)
+spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(497.93,0.27,-80.15,-5.50), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cerberus, cycles=7F, pos=(604.77,0.30,47.04,0.02), drop=6)
+spawn_monster(monster=Cerberus, cycles=7F, pos=(604.77,0.30,-47.04,0.02), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(638.87,0.30,0.31,3.14), drop=1)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(638.87,0.30,0.31,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7C, pos=(684.17,0.30,80.24,0.02), drop=15)
+spawn_monster(monster=Wraith, cycles=7C, pos=(684.17,0.30,-80.24,0.02), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(602.16,0.30,200.90,1.59), drop=16)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(602.16,0.30,-200.90,1.59), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(722.01,0.30,169.20,1.57), drop=1)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(722.01,0.30,-169.20,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(662.77,0.30,337.85,0.02), drop=17)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(662.77,0.30,-337.85,0.02), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(543.18,0.24,271.62,1.59), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(543.18,0.24,-271.62,1.59), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=6F, pos=(543.18,0.24,271.62,1.59), drop=1)
+spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=6F, pos=(543.18,0.24,-271.62,1.59), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(501.64,0.30,175.81,1.59), drop=29)
+spawn_monster(monster=Wraith, cycles=7F, pos=(501.64,0.30,-175.81,1.59), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7C, pos=(409.06,0.30,210.28,1.59), drop=1)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7C, pos=(409.06,0.30,-210.28,1.59), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=3C, pos=(821.46,0.30,178.52,3.14), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=3C, pos=(821.46,0.30,-178.52,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=4C, pos=(821.46,0.30,178.52,3.14), drop=1)
+spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=4C, pos=(821.46,0.30,-178.52,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7F, pos=(940.08,0.30,167.68,3.14), drop=7)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7F, pos=(940.08,0.30,-167.68,-3.14), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(846.40,10.30,284.83,5.50), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(846.40,10.30,-284.83,-5.50), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(846.40,10.30,284.83,5.50), drop=1)
+spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(846.40,10.30,-284.83,-5.50), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(980.22,10.30,283.00,0.02), drop=8)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(980.22,10.30,-283.00,0.02), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cerberus, cycles=7F, pos=(1055.42,0.30,52.31,1.55), drop=30)
+spawn_monster(monster=Cerberus, cycles=7F, pos=(1055.42,0.30,-52.31,-1.55), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cerberus, cycles=7F, pos=(865.57,10.30,79.33,3.13), drop=30)
+spawn_monster(monster=Cerberus, cycles=7F, pos=(865.57,10.30,79.33,-3.13), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cerberus, cycles=7F, pos=(687.28,20.30,119.35,3.13), drop=30)
+spawn_monster(monster=Cerberus, cycles=7F, pos=(687.28,20.30,119.35,-3.13), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -54110,7 +54110,7 @@ spawn_monster(monster=Gargoyle, cycles=7F, pos=(1102.21,20.30,159.64,0.02), drop
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton Lightning Mage , cycles=7F, pos=(1148.70,20.30,292.96,1.55))
+spawn_monster(monster=Skeleton Lightning Mage , cycles=7F, pos=(1148.70,20.30,292.96,-1.55))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
@@ -54119,55 +54119,55 @@ spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7F, pos=(856.
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(1070.40,0.30,231.38,0.02), drop=29)
+spawn_monster(monster=Wraith, cycles=7F, pos=(1070.40,0.30,-231.38,0.02), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Cerberus, cycles=7F, pos=(1166.04,0.30,331.99,0.02), drop=1)
+spawn_monster(monster=Cerberus, cycles=7F, pos=(1166.04,0.30,-331.99,0.02), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7C, pos=(1131.19,0.30,180.24,0.02), drop=9)
+spawn_monster(monster=Wraith, cycles=7C, pos=(1131.19,0.30,-180.24,0.02), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(1133.31,0.30,52.26,0.02), drop=1)
+spawn_monster(monster=Wraith, cycles=7F, pos=(1133.31,0.30,-52.26,0.02), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(1394.08,30.30,232.15,0.02), drop=9)
+spawn_monster(monster=Wraith, cycles=7F, pos=(1394.08,30.30,-232.15,0.02), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(1341.59,35.29,297.01,0.00), drop=29)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(1341.59,35.29,-297.01,0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(1257.04,35.30,250.86,5.50), drop=29)
+spawn_monster(monster=Conall Curach Gigan Toad, cycles=7F, pos=(1257.04,35.30,-250.86,-5.50), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=3C, pos=(1399.07,30.30,124.40,3.14), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=3C, pos=(1399.07,30.30,-124.40,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=4C, pos=(1399.07,30.30,124.40,3.14), drop=1)
+spawn_monster(monster=Skeleton (Mace) in Lich boss fight, cycles=4C, pos=(1399.07,30.30,-124.40,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7C, pos=(1231.09,30.30,121.62,3.14), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7C, pos=(1231.09,30.30,-121.62,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(1279.47,30.30,79.99,3.14), drop=27)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=1F, pos=(1279.47,30.30,-79.99,-3.14), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(1279.47,30.30,79.99,3.14), drop=1)
+spawn_monster(monster=Skeleton (Spear?) in Lich boss fight, cycles=6F, pos=(1279.47,30.30,-79.99,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7F, pos=(1345.46,30.30,81.09,3.14), drop=1)
+spawn_monster(monster=Skeleton (Sword?) in Lich boss fight, cycles=7F, pos=(1345.46,30.30,-81.09,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -54179,21 +54179,21 @@ spawn_monster(monster=Conall Curach Gigan Toad, cycles=7C, pos=(1254.06,30.19,37
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton Lightning Mage , cycles=7F, pos=(1265.83,29.99,151.88,1.57))
+spawn_monster(monster=Skeleton Lightning Mage , cycles=7F, pos=(1265.83,29.99,151.88,-1.57))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Skeleton Ice Mage, cycles=7F, pos=(1357.78,29.99,148.36,4.71))
+spawn_monster(monster=Skeleton Ice Mage, cycles=7F, pos=(1357.78,29.99,148.36,-4.71))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(1248.14,30.30,341.86,4.71), drop=27)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(1248.14,30.30,341.86,-4.71), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(1352.14,30.30,341.86,1.57), drop=27)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(1352.14,30.30,341.86,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -54205,12 +54205,12 @@ spawn_monster(monster=Wraith, cycles=7F, pos=(464.75,0.30,157.22,0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Skeleton Ice Mage, cycles=7F, pos=(806.86,10.30,158.44,4.71))
+spawn_monster(monster=Skeleton Ice Mage, cycles=7F, pos=(806.86,10.30,158.44,-4.71))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Goblin King, cycles=7F, pos=(1078.97,0.30,86.68,1.57))
+spawn_monster(monster=Goblin King, cycles=7F, pos=(1078.97,0.30,-86.68,-1.57))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Last int was not 0
@@ -54227,15 +54227,15 @@ pop;
 [44]
 [8, 0, 0, 18, 173]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,263.25,3.92))
+spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,-263.25,-3.92))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,203.62,5.49))
+spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,-203.62,-5.49))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,192.07,0.00))
+spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,-192.07,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -54259,11 +54259,11 @@ pop;
 [44]
 [8, 0, 0, 19, 206]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,263.25,3.92))
+spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,-263.25,-3.92))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,203.62,5.49))
+spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,-203.62,-5.49))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -54279,7 +54279,7 @@ pop;
 Unknown function 406 with unknown arguments
 [10, 255, 255, 1, 150]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,234.96,1.56))
+spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,-234.96,-1.56))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -54290,7 +54290,7 @@ pop;
 [44]
 [8, 0, 0, 20, 239]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,263.25,3.92))
+spawn_monster(monster=Mimic, cycles=7F, pos=(504.93,0.30,-263.25,-3.92))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -54307,11 +54307,11 @@ pop;
 Unknown function 406 with unknown arguments
 [10, 255, 255, 1, 150]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,192.07,0.00))
+spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,-192.07,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,234.96,1.56))
+spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,-234.96,-1.56))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
@@ -54335,15 +54335,15 @@ pop;
 Unknown function 406 with unknown arguments
 [10, 255, 255, 1, 150]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,203.62,5.49))
+spawn_monster(monster=Mimic, cycles=7F, pos=(495.67,0.30,-203.62,-5.49))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,192.07,0.00))
+spawn_monster(monster=Mimic, cycles=7F, pos=(464.17,0.30,-192.07,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,234.96,1.56))
+spawn_monster(monster=Mimic, cycles=7F, pos=(428.74,0.30,-234.96,-1.56))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;

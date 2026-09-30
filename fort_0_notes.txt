@@ -55075,7 +55075,7 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Bomb, cycles=7F, pos=(340.51,1.97,99.86,0.00))
+spawn_monster(monster=Bomb, cycles=7F, pos=(340.51,-1.97,-99.86,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55092,15 +55092,15 @@ pop;
 Unknown function 407 with unknown arguments
 [10, 255, 255, 1, 151]
 pop;
-spawn_monster(monster=Minion (Blue), cycles=7F, pos=(114.00,23.30,135.70,3.31))
+spawn_monster(monster=Minion (Blue), cycles=7F, pos=(114.00,23.30,135.70,-3.31))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Minion (Blue), cycles=7F, pos=(428.70,23.30,170.30,1.20))
+spawn_monster(monster=Minion (Blue), cycles=7F, pos=(-428.70,23.30,-170.30,1.20))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Minion (Blue), cycles=7F, pos=(222.20,43.30,268.90,1.97))
+spawn_monster(monster=Minion (Blue), cycles=7F, pos=(222.20,43.30,268.90,-1.97))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55153,7 +55153,7 @@ spawn_monster(monster=Chimera, cycles=7F, pos=(426.99,0.30,65.14,4.44), carryabl
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(325.11,60.47,373.20,1.57), carryable=32)
+spawn_monster(monster=Chimera, cycles=7F, pos=(325.11,60.47,-373.20,1.57), carryable=32)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55164,11 +55164,11 @@ pop;
 [44]
 [8, 0, 0, 5, 67]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(102.68,60.47,377.13,4.71), carryable=16)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-102.68,60.47,-377.13,4.71), carryable=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(559.24,60.30,139.26,0.33), carryable=32)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-559.24,60.30,139.26,0.33), carryable=32)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55183,46 +55183,46 @@ spawn_monster(monster=Chimera, cycles=7F, pos=(426.99,0.30,65.14,4.44), carryabl
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Chimera, cycles=7F, pos=(559.24,60.30,139.26,0.33), carryable=32)
+spawn_monster(monster=Chimera, cycles=7F, pos=(-559.24,60.30,139.26,0.33), carryable=32)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
 [7, 0, 0, 5, 234]
 [7, 0, 0, 5, 234]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(322.60,0.30,282.91,4.71), drop=8)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(-322.60,0.30,282.91,-4.71), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(282.60,0.30,202.91,4.71), drop=18)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-282.60,0.30,202.91,-4.71), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7C, pos=(400.26,0.30,213.25,4.71), drop=28)
+spawn_monster(monster=Wraith, cycles=7C, pos=(-400.26,0.30,213.25,-4.71), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7C, pos=(435.28,0.30,91.70,4.71), drop=7)
+spawn_monster(monster=Killer Bee, cycles=7C, pos=(-435.28,0.30,-91.70,-4.71), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(465.98,0.30,271.41,5.50), drop=26)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-465.98,0.30,-271.41,-5.50), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(369.44,0.30,218.86,0.00), drop=10)
+spawn_monster(monster=Wraith, cycles=7F, pos=(-369.44,0.30,-218.86,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(299.82,0.30,283.72,1.57), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(-299.82,0.30,-283.72,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(77.25,0.30,89.21,0.79), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(77.25,0.30,89.21,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(209.26,0.30,124.40,4.71), drop=19)
+spawn_monster(monster=Wraith, cycles=7F, pos=(209.26,0.30,124.40,-4.71), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -55230,167 +55230,167 @@ spawn_monster(monster=Coeurl, cycles=7C, pos=(174.36,0.40,42.43,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(257.44,0.30,14.58,0.00), drop=26)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(257.44,0.30,-14.58,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(153.02,0.30,81.99,0.00), drop=10)
+spawn_monster(monster=Wraith, cycles=7F, pos=(153.02,0.30,-81.99,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(114.16,20.30,212.52,5.50), drop=15)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(114.16,20.30,212.52,-5.50), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=6C, pos=(188.38,20.30,271.74,3.14), drop=28)
+spawn_monster(monster=Wraith, cycles=6C, pos=(188.38,20.30,271.74,-3.14), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(373.15,20.30,115.03,3.14), drop=16)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(-373.15,20.30,115.03,-3.14), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=6C, pos=(433.19,20.30,9.93,0.00), drop=26)
+spawn_monster(monster=Coeurl, cycles=6C, pos=(-433.19,20.30,9.93,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(154.74,20.30,228.74,4.71), drop=17)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(154.74,20.30,-228.74,-4.71), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=6C, pos=(274.89,20.30,205.12,1.57), drop=28)
+spawn_monster(monster=Wraith, cycles=6C, pos=(274.89,20.30,-205.12,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(25.23,43.34,203.30,2.36), drop=9)
+spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(25.23,43.34,-203.30,-2.36), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(56.31,43.34,7.90,5.50), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(56.31,43.34,-7.90,-5.50), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(277.75,42.76,9.56,1.57), drop=9)
+spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(-277.75,42.76,-9.56,-1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(230.17,42.76,218.17,3.93), drop=6)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(-230.17,42.76,-218.17,-3.93), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(434.72,0.40,185.87,3.14), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(434.72,0.40,185.87,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Wraith, cycles=7F, pos=(471.90,0.30,13.68,1.57), drop=28)
+spawn_monster(monster=Wraith, cycles=7F, pos=(471.90,0.30,13.68,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(423.11,0.30,80.11,0.00), drop=26)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(423.11,0.30,-80.11,0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(546.06,60.30,306.06,3.14), drop=6)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(546.06,60.30,306.06,-3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(580.06,60.30,307.06,3.14), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(580.06,60.30,307.06,-3.14), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(559.64,60.30,328.48,3.14), drop=15)
+spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(559.64,60.30,328.48,-3.14), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(561.06,60.30,68.94,0.00), drop=1)
+spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(561.06,60.30,-68.94,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(546.06,60.30,36.94,0.00), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(546.06,60.30,-36.94,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(576.06,60.30,35.94,0.00), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(576.06,60.30,-35.94,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(561.06,60.30,243.94,0.00), drop=1)
+spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(561.06,60.30,-243.94,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(538.06,60.30,214.94,0.00), drop=2)
+spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(538.06,60.30,-214.94,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(561.06,60.30,216.94,0.00), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(561.06,60.30,-216.94,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(584.06,60.30,214.94,0.00), drop=2)
+spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(584.06,60.30,-214.94,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(82.72,60.47,371.35,1.57), drop=7)
+spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(82.72,60.47,-371.35,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(117.72,60.47,371.35,4.71), drop=1)
+spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(117.72,60.47,-371.35,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(144.72,60.47,388.35,4.71), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(144.72,60.47,-388.35,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(147.72,60.47,360.35,4.71), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(147.72,60.47,-360.35,-4.71), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(60.72,60.47,390.35,1.57), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(60.72,60.47,-390.35,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(58.72,60.47,360.35,1.57), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(58.72,60.47,-360.35,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(421.38,60.47,391.71,4.71), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(-421.38,60.47,-391.71,-4.71), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(420.38,60.47,358.71,4.71), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(-420.38,60.47,-358.71,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(446.38,60.47,374.71,4.71), drop=1)
+spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(-446.38,60.47,-374.71,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(560.12,60.30,3.93,0.00), drop=8)
+spawn_monster(monster=Lizard Skirmisher, cycles=7F, pos=(-560.12,60.30,3.93,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(579.12,60.30,31.93,0.00), drop=1)
+spawn_monster(monster=Lizard Soldier, cycles=7F, pos=(-579.12,60.30,31.93,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(543.12,60.30,30.93,0.00), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7C, pos=(-543.12,60.30,30.93,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(561.12,60.30,263.07,0.00), drop=17)
+spawn_monster(monster=Lizard Wizard, cycles=7F, pos=(-561.12,60.30,-263.07,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(585.12,60.30,234.07,0.00), drop=2)
+spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(-585.12,60.30,-234.07,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(559.12,60.30,234.07,0.00), drop=27)
+spawn_monster(monster=Lizard Warrior, cycles=7F, pos=(-559.12,60.30,-234.07,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(535.12,60.30,239.07,0.00), drop=2)
+spawn_monster(monster=Lizard Soldier, cycles=7C, pos=(-535.12,60.30,-239.07,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 8 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;

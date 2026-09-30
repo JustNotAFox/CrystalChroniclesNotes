@@ -41977,7 +41977,7 @@ spawn_monster(monster=Tonberry Chef, cycles=7F, pos=(551.56,0.30,421.27,0.00), d
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=7F, pos=(561.27,0.30,394.56,3.93), drop=15)
+spawn_monster(monster=Gremlin, cycles=7F, pos=(561.27,0.30,394.56,-3.93), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;

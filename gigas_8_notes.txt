@@ -56559,11 +56559,11 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Jack Moschet, cycles=7F, pos=(0.39,0.30,334.20,0.00))
+spawn_monster(monster=Jack Moschet, cycles=7F, pos=(0.39,0.30,-334.20,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Maggie Moschet, cycles=7F, pos=(157.08,0.30,74.00,1.50))
+spawn_monster(monster=Maggie Moschet, cycles=7F, pos=(-157.08,0.30,-74.00,1.50))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;

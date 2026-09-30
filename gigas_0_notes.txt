@@ -50182,51 +50182,51 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(0.11,8.20,536.58,3.14), drop=14)
+spawn_monster(monster=Coeurl, cycles=7F, pos=(-0.11,-8.20,-536.58,3.14), drop=14)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7C, pos=(1.29,8.20,402.88,6.28), drop=18)
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
-Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
-pop;
-spawn_monster(monster=Gremlin, cycles=6C, pos=(63.49,8.20,445.95,1.28), drop=17)
+spawn_monster(monster=Coeurl, cycles=7C, pos=(1.29,-8.20,-402.88,6.28), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Gremlin, cycles=6C, pos=(55.88,8.20,447.82,1.31), drop=15)
+spawn_monster(monster=Gremlin, cycles=6C, pos=(-63.49,-8.20,-445.95,-1.28), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Ochu, cycles=4F, pos=(0.50,8.20,455.00,0.00), drop=30)
+spawn_monster(monster=Gremlin, cycles=6C, pos=(55.88,-8.20,-447.82,1.31), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Coeurl, cycles=7F, pos=(1.85,8.20,296.94,6.27), drop=20)
+spawn_monster(monster=Ochu, cycles=4F, pos=(0.50,-8.20,-455.00,0.00), drop=30)
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
+Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
+pop;
+spawn_monster(monster=Coeurl, cycles=7F, pos=(1.85,-8.20,-296.94,6.27), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7C, pos=(82.85,4.93,316.68,2.57), drop=16)
+spawn_monster(monster=Gargoyle, cycles=7C, pos=(-82.85,4.93,-316.68,2.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7C, pos=(81.00,4.93,317.22,2.57), drop=19)
+spawn_monster(monster=Gargoyle, cycles=7C, pos=(81.00,4.93,-317.22,-2.57), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(81.13,4.85,580.72,0.98), drop=26)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(81.13,4.85,-580.72,-0.98), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=7F, pos=(82.28,4.85,579.08,0.98), drop=26)
+spawn_monster(monster=Gargoyle, cycles=7F, pos=(-82.28,4.85,-579.08,0.98), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=6F, pos=(140.57,13.39,161.73,1.57), drop=1)
+spawn_monster(monster=Gargoyle, cycles=6F, pos=(140.57,13.39,-161.73,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gargoyle, cycles=6F, pos=(140.57,13.39,161.73,1.57), drop=1)
+spawn_monster(monster=Gargoyle, cycles=6F, pos=(-140.57,13.39,-161.73,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;

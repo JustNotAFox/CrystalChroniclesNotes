@@ -58558,284 +58558,284 @@ pop;
 pop;
 [0, 0, 1, 111, 9]
 [8, 0, 0, 4, 97]
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(848.89,39.70,484.37,3.14), drop=52)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-848.89,-39.70,-484.37,-3.14), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(848.89,39.70,454.37,3.14), drop=52)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(-848.89,-39.70,-454.37,-3.14), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(718.03,39.70,316.30,1.57), drop=51)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(-718.03,-39.70,-316.30,-1.57), drop=51)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(753.44,39.70,309.88,2.36), drop=52)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(-753.44,-39.70,-309.88,-2.36), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7F, pos=(395.52,39.70,173.95,1.57))
+spawn_monster(monster=Water Flan, cycles=7F, pos=(-395.52,-39.70,-173.95,-1.57))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(525.35,39.70,118.59,3.14), drop=50)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-525.35,-39.70,-118.59,-3.14), drop=50)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(377.79,39.70,124.22,1.57), drop=50)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-377.79,-39.70,-124.22,-1.57), drop=50)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Griffin, cycles=7F, pos=(450.39,39.70,71.63,3.14), carryable=64)
+spawn_monster(monster=Griffin, cycles=7F, pos=(-450.39,-39.70,-71.63,-3.14), carryable=64)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
 [7, 0, 0, 22, 49]
-spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(261.48,30.30,577.88,0.00), drop=18)
+spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(261.48,30.30,-577.88,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(261.48,30.30,577.88,0.00), drop=18)
+spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(261.48,30.30,-577.88,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(180.33,30.30,543.91,1.57), drop=2)
+spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(180.33,30.30,-543.91,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7C, pos=(322.98,30.30,561.89,3.14), drop=2)
+spawn_monster(monster=Lizardman (Axe), cycles=7C, pos=(322.98,30.30,-561.89,3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(266.07,30.30,486.59,3.14), drop=16)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(266.07,30.30,-486.59,-3.14), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7E, pos=(33.76,20.30,292.72,1.57), drop=2)
+spawn_monster(monster=Water Flan, cycles=7E, pos=(-33.76,20.30,-292.72,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(58.45,20.30,243.75,1.57), drop=20)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(-58.45,20.30,-243.75,1.57), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(101.18,20.25,270.86,1.57), drop=15)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-101.18,20.25,-270.86,1.57), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7C, pos=(1.55,20.30,235.75,3.14), drop=15)
+spawn_monster(monster=Water Flan, cycles=7C, pos=(1.55,20.30,-235.75,-3.14), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7E, pos=(425.69,0.30,571.25,3.14), drop=2)
+spawn_monster(monster=Ice Bomb, cycles=7E, pos=(-425.69,0.30,-571.25,-3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=1F, pos=(465.00,0.30,559.25,1.57), drop=6)
+spawn_monster(monster=Lizardman (Axe), cycles=1F, pos=(-465.00,0.30,-559.25,1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(465.00,0.30,559.25,1.57), drop=6)
+spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(-465.00,0.30,-559.25,1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6F, pos=(432.95,0.30,519.21,1.57), drop=26)
+spawn_monster(monster=Griffin, cycles=6F, pos=(-432.95,0.30,-519.21,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(479.83,0.30,479.45,0.00), drop=25)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(-479.83,0.30,-479.45,0.00), drop=25)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(37.98,0.30,7.44,3.14), drop=8)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(37.98,0.30,7.44,-3.14), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(9.98,0.30,23.44,3.14), drop=19)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(9.98,0.30,23.44,-3.14), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=7C, pos=(18.02,0.30,23.44,1.57), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=7C, pos=(-18.02,0.30,23.44,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7E, pos=(54.02,0.30,23.44,1.57), drop=27)
+spawn_monster(monster=Gigan Toad, cycles=7E, pos=(-54.02,0.30,23.44,-1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(421.26,39.70,308.73,1.57), drop=10)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(421.26,-39.70,308.73,-1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=6F, pos=(601.28,19.70,403.22,1.57), drop=2)
+spawn_monster(monster=Ice Bomb, cycles=6F, pos=(-601.28,-19.70,403.22,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7F, pos=(661.77,19.70,414.73,1.57), drop=28)
+spawn_monster(monster=Water Flan, cycles=7F, pos=(-661.77,-19.70,414.73,1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7F, pos=(14.54,39.70,547.18,1.57), drop=28)
+spawn_monster(monster=Water Flan, cycles=7F, pos=(-14.54,-39.70,547.18,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7E, pos=(9.46,39.70,543.18,1.57), drop=9)
+spawn_monster(monster=Ice Bomb, cycles=7E, pos=(9.46,-39.70,543.18,-1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(659.00,39.70,772.81,0.00), drop=1)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(-659.00,-39.70,-772.81,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6C, pos=(397.62,39.70,347.93,1.57), drop=26)
+spawn_monster(monster=Griffin, cycles=6C, pos=(397.62,-39.70,347.93,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(381.62,39.70,323.93,1.57), drop=1)
+spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(381.62,-39.70,323.93,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=4F, pos=(381.62,39.70,323.93,1.57), drop=1)
+spawn_monster(monster=Lizardman (Javelin), cycles=4F, pos=(381.62,-39.70,323.93,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(397.62,39.85,379.93,1.57), drop=1)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(397.62,-39.85,379.93,-1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(529.28,19.70,471.22,1.57), drop=17)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-529.28,-19.70,471.22,1.57), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(591.33,19.70,400.53,1.57), drop=17)
+spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(-591.33,-19.70,400.53,1.57), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=6F, pos=(615.33,19.70,470.53,1.57), drop=15)
+spawn_monster(monster=Lizardman (Mage), cycles=6F, pos=(-615.33,-19.70,470.53,1.57), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=1E, pos=(529.28,19.70,411.22,1.57), drop=18)
+spawn_monster(monster=Lizardman (Axe), cycles=1E, pos=(-529.28,-19.70,411.22,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=6E, pos=(529.28,19.70,411.22,1.57), drop=18)
+spawn_monster(monster=Gigan Toad, cycles=6E, pos=(-529.28,-19.70,411.22,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Griffin, cycles=7F, pos=(593.28,19.70,435.22,1.57), drop=19)
+spawn_monster(monster=Griffin, cycles=7F, pos=(-593.28,-19.70,435.22,1.57), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Griffin, cycles=4C, pos=(358.31,39.70,155.44,0.79), drop=26)
+spawn_monster(monster=Griffin, cycles=4C, pos=(-358.31,-39.70,-155.44,-0.79), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7F, pos=(428.74,39.70,189.86,0.00), drop=5)
+spawn_monster(monster=Water Flan, cycles=7F, pos=(-428.74,-39.70,-189.86,-0.00), drop=5)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=6C, pos=(489.91,39.70,192.69,0.00), drop=28)
+spawn_monster(monster=Water Flan, cycles=6C, pos=(-489.91,-39.70,-192.69,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Water Flan, cycles=7F, pos=(518.88,39.70,604.33,3.14), drop=28)
+spawn_monster(monster=Water Flan, cycles=7F, pos=(-518.88,-39.70,-604.33,3.14), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Griffin, cycles=7F, pos=(589.33,39.70,741.00,0.00), drop=14)
+spawn_monster(monster=Griffin, cycles=7F, pos=(-589.33,-39.70,-741.00,-0.00), drop=14)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 1 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=2F, pos=(443.65,29.70,633.57,0.00), drop=27)
+spawn_monster(monster=Gigan Toad, cycles=2F, pos=(443.65,-29.70,-633.57,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=2F, pos=(364.56,42.20,443.55,5.50), drop=27)
+spawn_monster(monster=Gigan Toad, cycles=2F, pos=(364.56,-42.20,-443.55,-5.50), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=7F, pos=(520.36,39.70,183.26,1.57), drop=25)
+spawn_monster(monster=Griffin, cycles=7F, pos=(-520.36,-39.70,-183.26,1.57), drop=25)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=6C, pos=(524.54,39.70,227.32,0.00), drop=20)
+spawn_monster(monster=Ice Bomb, cycles=6C, pos=(-524.54,-39.70,-227.32,-0.00), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2C, pos=(46.86,59.70,422.71,1.57), drop=26)
+spawn_monster(monster=Griffin, cycles=2C, pos=(46.86,-59.70,422.71,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 3 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2F, pos=(306.71,39.70,551.46,0.00), drop=19)
+spawn_monster(monster=Ice Bomb, cycles=2F, pos=(-306.71,-39.70,-551.46,0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 2 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2C, pos=(322.94,29.83,434.44,2.36), drop=29)
+spawn_monster(monster=Ice Bomb, cycles=2C, pos=(-322.94,-29.83,-434.44,2.36), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 2 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(261.87,29.70,397.90,3.14), drop=26)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-261.87,-29.70,-397.90,-3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 2 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2C, pos=(20.10,59.70,240.13,0.00), drop=2)
+spawn_monster(monster=Ice Bomb, cycles=2C, pos=(-20.10,-59.70,240.13,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 3 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2F, pos=(34.86,59.70,330.71,1.57), drop=29)
+spawn_monster(monster=Ice Bomb, cycles=2F, pos=(34.86,-59.70,330.71,-1.57), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 3 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(51.85,59.70,385.13,3.14), drop=2)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-51.85,-59.70,385.13,3.14), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 3 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2F, pos=(439.35,54.70,244.29,1.57), drop=29)
+spawn_monster(monster=Ice Bomb, cycles=2F, pos=(-439.35,-54.70,244.29,-1.57), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 4 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=2C, pos=(433.31,34.70,173.82,1.57), drop=29)
+spawn_monster(monster=Ice Bomb, cycles=2C, pos=(-433.31,-34.70,173.82,-1.57), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 4 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(439.35,54.70,320.29,1.57), drop=8)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-439.35,-54.70,320.29,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 4 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(707.95,69.70,489.59,3.14), drop=6)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-707.95,-69.70,-489.59,3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(612.48,69.70,494.02,3.14), drop=26)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-612.48,-69.70,-494.02,3.14), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(229.23,54.70,144.21,0.00), drop=26)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-229.23,-54.70,-144.21,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=2F, pos=(287.23,69.70,10.21,3.14), drop=7)
+spawn_monster(monster=Griffin, cycles=2F, pos=(-287.23,-69.70,-10.21,3.14), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(536.49,39.70,144.21,4.71), drop=6)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-536.49,-39.70,-144.21,-4.71), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=6E, pos=(463.17,39.70,143.54,0.00), drop=7)
+spawn_monster(monster=Gigan Toad, cycles=6E, pos=(-463.17,-39.70,-143.54,-0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 6 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(381.53,39.70,107.32,1.57), drop=8)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-381.53,-39.70,-107.32,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 0 ]
 pop;
-spawn_monster(monster=Gigan Toad, cycles=7F, pos=(859.62,39.70,508.40,0.00), drop=27)
+spawn_monster(monster=Gigan Toad, cycles=7F, pos=(-859.62,-39.70,-508.40,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7E, pos=(835.62,39.70,500.40,0.00), drop=2)
+spawn_monster(monster=Lizardman (Axe), cycles=7E, pos=(-835.62,-39.70,-500.40,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   9 ]
 pop;

@@ -55977,104 +55977,104 @@ pop;
 pop;
 [0, 0, 1, 111, 9]
 [8, 0, 0, 4, 13]
-spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(237.06,6.91,406.64,0.00), drop=50)
+spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(-237.06,6.91,-406.64,0.00), drop=50)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(237.19,4.58,479.42,0.79), drop=50)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(-237.19,4.58,-479.42,-0.79), drop=50)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Goblin (Mage), cycles=7F, pos=(185.76,3.76,431.75,0.79), drop=51)
+spawn_monster(monster=Goblin (Mage), cycles=7F, pos=(-185.76,3.76,-431.75,-0.79), drop=51)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(291.33,8.19,381.63,0.79), drop=52)
+spawn_monster(monster=Mu, cycles=7F, pos=(-291.33,8.19,-381.63,-0.79), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Mu, cycles=7C, pos=(243.26,0.48,304.49,1.57), drop=52)
+spawn_monster(monster=Mu, cycles=7C, pos=(-243.26,0.48,-304.49,-1.57), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7C, pos=(220.52,0.30,526.14,0.00), drop=52)
+spawn_monster(monster=Goblin (Sword), cycles=7C, pos=(-220.52,0.30,-526.14,0.00), drop=52)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(135.11,0.30,487.43,1.57), drop=51)
+spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(-135.11,0.30,-487.43,-1.57), drop=51)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
 [7, 0, 0, 20, 191]
-spawn_monster(monster=Goblin (Sword), cycles=4F, pos=(259.66,0.30,568.48,0.79), drop=2)
+spawn_monster(monster=Goblin (Sword), cycles=4F, pos=(-259.66,0.30,568.48,0.79), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=4C, pos=(105.45,0.30,580.79,1.57), drop=2)
+spawn_monster(monster=Goblin (Sword), cycles=4C, pos=(-105.45,0.30,580.79,-1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(303.51,0.32,440.73,0.00), drop=10)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(-303.51,0.32,440.73,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(274.30,0.30,349.52,0.00), drop=15)
+spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(-274.30,0.30,349.52,0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=2F, pos=(274.30,0.30,349.52,0.00), drop=6)
+spawn_monster(monster=Stone Hedgehog, cycles=2F, pos=(-274.30,0.30,349.52,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(274.30,0.30,349.52,0.00), drop=6)
+spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(-274.30,0.30,349.52,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(202.43,0.30,252.01,0.00), carryable=16, drop=18)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(-202.43,0.30,252.01,-0.00), carryable=16, drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Mace), cycles=4F, pos=(109.29,0.30,393.93,0.79), drop=2)
+spawn_monster(monster=Goblin (Mace), cycles=4F, pos=(-109.29,0.30,393.93,-0.79), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=1F, pos=(110.53,0.31,327.51,1.57), drop=6)
+spawn_monster(monster=Goblin (Sword), cycles=1F, pos=(-110.53,0.31,327.51,-1.57), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Goblin (Spear), cycles=6F, pos=(110.53,0.31,327.51,1.57), drop=15)
+spawn_monster(monster=Goblin (Spear), cycles=6F, pos=(-110.53,0.31,327.51,-1.57), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=6F, pos=(52.40,0.10,377.64,1.57), drop=16)
+spawn_monster(monster=Goblin (Sword), cycles=6F, pos=(-52.40,0.10,377.64,-1.57), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=6F, pos=(376.64,9.37,364.59,2.36), drop=2)
+spawn_monster(monster=Goblin (Sword), cycles=6F, pos=(-376.64,9.37,364.59,2.36), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Mage), cycles=4C, pos=(399.32,14.38,416.27,2.36), drop=2)
+spawn_monster(monster=Goblin (Mage), cycles=4C, pos=(-399.32,14.38,416.27,2.36), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(347.63,0.30,172.99,0.00), drop=7)
+spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(-347.63,0.30,172.99,0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=2F, pos=(347.63,0.30,172.99,0.00), drop=7)
+spawn_monster(monster=Stone Hedgehog, cycles=2F, pos=(-347.63,0.30,172.99,0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(347.63,0.30,172.99,0.00), drop=7)
+spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(-347.63,0.30,172.99,0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3C, pos=(375.67,0.30,143.95,0.00), drop=8)
+spawn_monster(monster=Hedgehog Pie, cycles=3C, pos=(-375.67,0.30,143.95,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4C, pos=(375.67,0.30,143.95,0.00), drop=8)
+spawn_monster(monster=Dark Hedgehog, cycles=4C, pos=(-375.67,0.30,143.95,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
@@ -56082,43 +56082,43 @@ spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(11.67,0.30,76.96,0.00), ca
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tida Carrion Worm, cycles=1F, pos=(115.21,0.30,142.31,1.57), drop=11)
+spawn_monster(monster=Tida Carrion Worm, cycles=1F, pos=(115.21,0.30,142.31,-1.57), drop=11)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6F, pos=(115.21,0.30,142.31,1.57), drop=11)
+spawn_monster(monster=Griffin, cycles=6F, pos=(115.21,0.30,142.31,-1.57), drop=11)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(160.58,0.30,197.11,1.57), drop=5)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(160.58,0.30,197.11,-1.57), drop=5)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1C, pos=(88.09,0.30,220.63,2.36), drop=8)
+spawn_monster(monster=Hedgehog Pie, cycles=1C, pos=(88.09,0.30,220.63,-2.36), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=6C, pos=(88.09,0.30,220.63,2.36), drop=8)
+spawn_monster(monster=Stone Hedgehog, cycles=6C, pos=(88.09,0.30,220.63,-2.36), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4C, pos=(165.55,0.30,419.16,2.36), drop=2)
+spawn_monster(monster=Dark Hedgehog, cycles=4C, pos=(165.55,0.30,419.16,-2.36), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(243.96,0.23,429.82,1.57), drop=18)
+spawn_monster(monster=Hedgehog Pie, cycles=3F, pos=(243.96,0.23,429.82,-1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(243.96,0.23,429.82,1.57), drop=18)
+spawn_monster(monster=Dark Hedgehog, cycles=4F, pos=(243.96,0.23,429.82,-1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1E, pos=(153.44,0.15,501.57,3.14), drop=10)
+spawn_monster(monster=Hedgehog Pie, cycles=1E, pos=(153.44,0.15,501.57,-3.14), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Stone Hedgehog, cycles=6F, pos=(153.44,0.15,501.57,3.14), drop=10)
+spawn_monster(monster=Stone Hedgehog, cycles=6F, pos=(153.44,0.15,501.57,-3.14), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -56130,7 +56130,7 @@ spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(294.11,35.74,201.55,0.00),
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(137.20,34.80,30.79,1.57), drop=1)
+spawn_monster(monster=Mu, cycles=7F, pos=(137.20,34.80,-30.79,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -56142,103 +56142,103 @@ spawn_monster(monster=Stone Hedgehog, cycles=6F, pos=(139.20,35.27,34.21,1.57), 
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(6.65,0.30,32.69,0.00), drop=17)
+spawn_monster(monster=Mu, cycles=7F, pos=(6.65,0.30,-32.69,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(93.71,0.30,117.94,0.00), drop=1)
+spawn_monster(monster=Mu, cycles=7F, pos=(93.71,0.30,-117.94,0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(32.74,0.30,138.91,0.00), drop=7)
+spawn_monster(monster=Mu, cycles=7F, pos=(32.74,0.30,-138.91,0.00), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7C, pos=(77.23,0.30,195.39,0.00), drop=17)
+spawn_monster(monster=Goblin (Sword), cycles=7C, pos=(77.23,0.30,-195.39,0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Mu, cycles=6F, pos=(131.18,30.33,320.83,0.79), drop=10)
+spawn_monster(monster=Mu, cycles=6F, pos=(131.18,30.33,-320.83,0.79), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(118.23,33.82,363.78,0.00), drop=27)
+spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(118.23,33.82,-363.78,0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mu, cycles=6F, pos=(254.87,41.60,388.02,0.00), drop=6)
+spawn_monster(monster=Mu, cycles=6F, pos=(254.87,41.60,-388.02,0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(254.87,43.22,428.02,0.00), drop=10)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(254.87,43.22,-428.02,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Tida Carrion Worm, cycles=1F, pos=(459.16,3.02,286.54,0.00), drop=12)
+spawn_monster(monster=Tida Carrion Worm, cycles=1F, pos=(-459.16,3.02,-286.54,0.00), drop=12)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6F, pos=(459.16,3.02,286.54,0.00), drop=12)
+spawn_monster(monster=Griffin, cycles=6F, pos=(-459.16,3.02,-286.54,0.00), drop=12)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(388.29,0.30,254.67,0.00), drop=8)
+spawn_monster(monster=Mu, cycles=7F, pos=(-388.29,0.30,-254.67,0.00), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Mu, cycles=7C, pos=(476.35,5.45,228.35,0.79), drop=7)
+spawn_monster(monster=Mu, cycles=7C, pos=(-476.35,5.45,-228.35,0.79), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(237.06,6.91,406.64,0.00), drop=16)
+spawn_monster(monster=Hedgehog Pie, cycles=1F, pos=(-237.06,6.91,-406.64,0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6F, pos=(237.06,6.91,406.64,0.00), drop=28)
+spawn_monster(monster=Griffin, cycles=6F, pos=(-237.06,6.91,-406.64,0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(237.19,4.58,479.42,0.79), drop=16)
+spawn_monster(monster=Goblin (Sword), cycles=7F, pos=(-237.19,4.58,-479.42,-0.79), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(185.76,3.76,431.75,0.79), drop=14)
+spawn_monster(monster=Tida Carrion Worm, cycles=7F, pos=(-185.76,3.76,-431.75,-0.79), drop=14)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Mu, cycles=6C, pos=(291.33,8.19,381.63,0.79), drop=2)
+spawn_monster(monster=Mu, cycles=6C, pos=(-291.33,8.19,-381.63,-0.79), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Mu, cycles=7F, pos=(397.35,0.12,64.64,3.93), carryable=48, drop=1)
+spawn_monster(monster=Mu, cycles=7F, pos=(-397.35,0.12,-64.64,-3.93), carryable=48, drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Griffin, cycles=6F, pos=(138.11,0.30,490.43,1.57), drop=28)
+spawn_monster(monster=Griffin, cycles=6F, pos=(-138.11,0.30,-490.43,-1.57), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Mu, cycles=6C, pos=(225.29,0.30,343.69,0.79), drop=2)
+spawn_monster(monster=Mu, cycles=6C, pos=(-225.29,0.30,-343.69,-0.79), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Mu, cycles=7C, pos=(243.26,0.48,304.49,1.57), drop=9)
+spawn_monster(monster=Mu, cycles=7C, pos=(-243.26,0.48,-304.49,-1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=6C, pos=(236.75,0.30,352.81,1.57), drop=8)
+spawn_monster(monster=Goblin (Sword), cycles=6C, pos=(-236.75,0.30,-352.81,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   7 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=6C, pos=(220.52,0.30,526.14,0.00), drop=18)
+spawn_monster(monster=Goblin (Sword), cycles=6C, pos=(-220.52,0.30,-526.14,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Goblin (Mage), cycles=6F, pos=(248.52,0.30,530.14,0.00), drop=2)
+spawn_monster(monster=Goblin (Mage), cycles=6F, pos=(-248.52,0.30,-530.14,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;
-spawn_monster(monster=Goblin (Sword), cycles=4F, pos=(291.71,1.06,426.26,0.00), drop=2)
+spawn_monster(monster=Goblin (Sword), cycles=4F, pos=(-291.71,1.06,-426.26,0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   8 ]
 pop;

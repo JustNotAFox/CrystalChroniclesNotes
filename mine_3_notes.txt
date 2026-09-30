@@ -56426,26 +56426,26 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Orc King, cycles=7F, pos=(0.00,0.30,295.51,0.00))
+spawn_monster(monster=Orc King, cycles=7F, pos=(0.00,0.30,-295.51,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Orc (Axe) in Orc King boss fight, cycles=7F, pos=(200.12,0.30,277.54,0.83))
+spawn_monster(monster=Orc (Axe) in Orc King boss fight, cycles=7F, pos=(200.12,0.30,-277.54,-0.83))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Orc (Axe) in Orc King boss fight, cycles=6F, pos=(195.78,0.30,285.99,0.92))
+spawn_monster(monster=Orc (Axe) in Orc King boss fight, cycles=6F, pos=(-195.78,0.30,-285.99,0.92))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Orc (Spear) in Orc King boss fight, cycles=6C, pos=(147.43,0.30,63.30,2.35))
+spawn_monster(monster=Orc (Spear) in Orc King boss fight, cycles=6C, pos=(-147.43,0.30,-63.30,2.35))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Last int was not 0
 pop;
-spawn_monster(monster=Orc (Mace) in Orc King boss fight, cycles=4C, pos=(166.71,0.30,61.45,2.30))
+spawn_monster(monster=Orc (Mace) in Orc King boss fight, cycles=4C, pos=(166.71,0.30,-61.45,-2.30))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 Last int was not 0

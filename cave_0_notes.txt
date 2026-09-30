@@ -54394,251 +54394,251 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(121.78,5.37,40.66,0.00), drop=16)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(121.78,5.37,-40.66,-0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(238.84,2.12,65.68,0.00), drop=17)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(238.84,2.12,-65.68,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(240.84,2.12,31.68,1.57), drop=7)
+spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(240.84,2.12,-31.68,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(240.84,2.12,31.68,1.57), drop=7)
+spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(240.84,2.12,-31.68,-1.57), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(285.83,2.12,40.75,1.57), drop=18)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(285.83,2.12,-40.75,-1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(424.50,2.75,114.22,0.00), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(424.50,2.75,-114.22,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(499.27,2.80,123.71,0.79), drop=26)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(499.27,2.80,-123.71,-0.79), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7C, pos=(133.11,0.21,22.23,1.57), drop=2)
+spawn_monster(monster=Killer Bee, cycles=7C, pos=(-133.11,0.21,-22.23,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(202.61,0.20,93.09,0.00), drop=17)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-202.61,0.20,-93.09,-0.00), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(399.75,0.20,64.98,1.57), drop=10)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-399.75,0.20,-64.98,1.57), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(544.63,0.20,81.62,1.57), drop=18)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(-544.63,0.20,-81.62,1.57), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7C, pos=(594.63,0.20,147.62,1.57), drop=2)
+spawn_monster(monster=Killer Bee, cycles=7C, pos=(-594.63,0.20,-147.62,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(622.42,2.87,88.98,1.57), drop=15)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(-622.42,2.87,-88.98,1.57), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(672.85,0.20,193.47,0.00), drop=15)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(-672.85,0.20,-193.47,-0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(814.46,29.71,117.62,1.57), drop=1)
+spawn_monster(monster=Lizardman (Mage), cycles=7F, pos=(-814.46,29.71,-117.62,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(364.43,0.20,312.85,0.00), drop=2)
+spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(-364.43,0.20,-312.85,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(364.43,0.20,312.85,0.00), drop=2)
+spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(-364.43,0.20,-312.85,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(324.43,0.20,310.85,0.00), drop=29)
+spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(-324.43,0.20,-310.85,-0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(296.43,0.20,308.85,0.00), drop=19)
+spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(-296.43,0.20,-308.85,-0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(296.43,0.20,308.85,0.00), drop=19)
+spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(-296.43,0.20,-308.85,-0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(336.89,0.20,352.54,0.00), drop=18)
+spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(-336.89,0.20,-352.54,-0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(300.83,0.20,350.48,0.00), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(-300.83,0.20,-350.48,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   2 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(270.42,1.04,510.38,0.00), drop=9)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(-270.42,-1.04,-510.38,-0.00), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(289.82,1.04,546.60,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-289.82,-1.04,-546.60,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(235.82,1.04,544.60,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-235.82,-1.04,-544.60,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7C, pos=(455.30,0.20,215.65,0.00), drop=2)
+spawn_monster(monster=Killer Bee, cycles=7C, pos=(-455.30,0.20,-215.65,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(493.30,0.20,245.65,0.00), drop=16)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(-493.30,0.20,-245.65,-0.00), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(483.86,0.20,419.51,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-483.86,0.20,-419.51,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(412.65,0.20,452.23,0.00), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(-412.65,0.20,-452.23,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(400.04,0.20,540.31,0.00), drop=6)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-400.04,0.20,-540.31,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(492.67,0.20,561.71,0.00), drop=2)
+spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(-492.67,0.20,-561.71,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(524.32,0.20,537.45,4.71), drop=7)
+spawn_monster(monster=Lizardman (Axe), cycles=7F, pos=(-524.32,0.20,-537.45,-4.71), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(729.06,0.20,551.94,1.57), drop=2)
+spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(-729.06,0.20,-551.94,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(729.06,0.20,551.94,1.57), drop=2)
+spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(-729.06,0.20,-551.94,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(703.17,0.20,582.51,0.00), drop=29)
+spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(-703.17,0.20,-582.51,-0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(681.68,0.20,624.74,0.00), drop=1)
+spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(-681.68,0.20,-624.74,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(681.68,0.20,624.74,0.00), drop=1)
+spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(-681.68,0.20,-624.74,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(740.53,0.20,555.33,4.71), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(-740.53,0.20,-555.33,-4.71), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(719.89,0.20,626.41,0.00), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(-719.89,0.20,-626.41,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   3 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(551.88,0.13,739.00,0.00), drop=26)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(-551.88,0.13,-739.00,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(450.73,0.14,664.84,1.57), drop=26)
+spawn_monster(monster=Blazer Beetle, cycles=7F, pos=(-450.73,0.14,-664.84,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Blazer Beetle, cycles=7C, pos=(479.94,0.13,720.26,0.00), drop=26)
+spawn_monster(monster=Blazer Beetle, cycles=7C, pos=(-479.94,0.13,-720.26,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(494.72,0.13,768.38,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-494.72,0.13,-768.38,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(227.21,0.32,272.44,0.00), drop=28)
+spawn_monster(monster=Gigas, cycles=7F, pos=(227.21,-0.32,-272.44,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(74.80,0.93,605.22,0.00), drop=2)
+spawn_monster(monster=Lizardman (Axe), cycles=3C, pos=(74.80,0.93,-605.22,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(74.80,0.93,605.22,0.00), drop=2)
+spawn_monster(monster=Lizardman (Mace), cycles=4C, pos=(74.80,0.93,-605.22,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(110.80,0.93,605.22,0.00), drop=29)
+spawn_monster(monster=Jack Mochet (seemed to have a different AI), cycles=7F, pos=(110.80,0.93,-605.22,-0.00), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(138.80,0.93,607.22,0.00), drop=10)
+spawn_monster(monster=Lizardman (Axe), cycles=3F, pos=(138.80,0.93,-607.22,-0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(138.80,0.93,607.22,0.00), drop=2)
+spawn_monster(monster=Lizardman (Mace), cycles=4F, pos=(138.80,0.93,-607.22,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(96.92,0.93,642.05,0.00), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=6C, pos=(96.92,0.93,-642.05,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(128.92,0.93,640.05,0.00), drop=2)
+spawn_monster(monster=Lizardman (Javelin), cycles=6F, pos=(128.92,0.93,-640.05,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(127.31,0.93,683.31,0.00), drop=10)
+spawn_monster(monster=Lizardman (Mage), cycles=7C, pos=(127.31,0.93,-683.31,-0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   4 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(114.51,101.18,583.01,0.00), drop=1)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-114.51,101.18,-583.01,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(51.81,101.18,553.93,0.00), drop=2)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-51.81,101.18,-553.93,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7C, pos=(144.41,101.18,530.92,0.00), drop=2)
+spawn_monster(monster=Gigas, cycles=7C, pos=(-144.41,101.18,-530.92,-0.00), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(130.44,101.18,414.97,3.14), drop=1)
+spawn_monster(monster=Gigas, cycles=7F, pos=(-130.44,101.18,-414.97,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   5 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7C, pos=(148.21,101.18,360.84,1.57), drop=2)
+spawn_monster(monster=Killer Bee, cycles=7C, pos=(-148.21,101.18,-360.84,1.57), drop=2)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(6.52,101.18,348.12,1.57), drop=1)
+spawn_monster(monster=Gigas, cycles=7F, pos=(6.52,101.18,-348.12,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Killer Bee, cycles=7F, pos=(67.39,101.18,247.25,0.00), drop=1)
+spawn_monster(monster=Killer Bee, cycles=7F, pos=(67.39,101.18,-247.25,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Gigas, cycles=7F, pos=(69.07,132.09,227.30,0.00), drop=28)
+spawn_monster(monster=Gigas, cycles=7F, pos=(-69.07,132.09,-227.30,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(105.72,132.60,295.64,0.00), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7C, pos=(-105.72,132.60,-295.64,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;
-spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(25.70,132.19,140.10,3.14), drop=27)
+spawn_monster(monster=Electric Jellyfish, cycles=7F, pos=(-25.70,132.19,-140.10,-3.14), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   6 ]
 pop;

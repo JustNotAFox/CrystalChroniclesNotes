@@ -51172,11 +51172,11 @@ pop;
 [7, 0, 0, 1, 250]
 [7, 0, 0, 1, 250]
 pop;
-spawn_monster(monster=Snow Mu, cycles=7F, pos=(8.94,4.05,786.29,0.00), drop=18)
+spawn_monster(monster=Snow Mu, cycles=7F, pos=(-8.94,4.05,786.29,0.00), drop=18)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Snow Mu, cycles=7F, pos=(62.08,8.90,698.14,0.00), drop=1)
+spawn_monster(monster=Snow Mu, cycles=7F, pos=(-62.08,8.90,698.14,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
@@ -51184,151 +51184,151 @@ spawn_monster(monster=Snow Mu, cycles=7F, pos=(24.02,7.51,638.01,0.00), drop=10)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(214.72,10.24,609.57,0.00), drop=15)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(214.72,10.24,609.57,-0.00), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(258.72,6.37,559.57,0.00), drop=26)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(258.72,6.37,559.57,-0.00), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(181.70,7.07,454.36,0.79), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(181.70,7.07,454.36,-0.79), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(80.40,4.51,294.79,0.00), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(80.40,4.51,294.79,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(18.11,3.18,371.08,3.14), drop=17)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(18.11,3.18,371.08,-3.14), drop=17)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(16.19,4.02,256.03,4.71), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-16.19,4.02,256.03,-4.71), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(49.06,2.67,185.38,0.00), drop=19)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-49.06,2.67,185.38,0.00), drop=19)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(334.23,2.69,208.46,3.14), drop=16)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(-334.23,2.69,208.46,-3.14), drop=16)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(223.63,2.69,391.61,1.57), drop=26)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(-223.63,2.69,391.61,-1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Ice Bomb, cycles=7F, pos=(271.31,2.67,571.95,1.57), drop=26)
+spawn_monster(monster=Ice Bomb, cycles=7F, pos=(-271.31,2.67,571.95,1.57), drop=26)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(363.37,4.55,697.82,3.14), drop=20)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-363.37,4.55,697.82,3.14), drop=20)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(476.72,3.75,825.56,0.00), drop=28)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-476.72,3.75,825.56,-0.00), drop=28)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(710.13,6.56,764.15,1.57), drop=29)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-710.13,6.56,764.15,1.57), drop=29)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(781.08,9.04,735.68,0.00), drop=30)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-781.08,9.04,735.68,-0.00), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(930.45,4.82,602.83,0.00), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-930.45,4.82,602.83,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(991.16,5.56,660.70,1.57), drop=9)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-991.16,5.56,660.70,1.57), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(1054.62,5.28,844.11,1.57), drop=1)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-1054.62,5.28,844.11,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Magic Plant, cycles=7F, pos=(752.91,4.42,971.67,3.14), drop=9)
+spawn_monster(monster=Magic Plant, cycles=7F, pos=(-752.91,4.42,971.67,3.14), drop=9)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(650.96,3.26,544.33,0.00), drop=6)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-650.96,3.26,544.33,-0.00), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(725.45,4.65,505.55,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-725.45,4.65,505.55,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(645.08,3.57,1149.87,3.14), drop=7)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-645.08,3.57,1149.87,3.14), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(728.01,3.69,1139.01,0.00), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-728.01,3.69,1139.01,-0.00), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(736.68,21.92,820.67,3.14), drop=8)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-736.68,21.92,820.67,-3.14), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(838.73,4.34,843.02,3.14), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-838.73,4.34,843.02,-3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(379.45,4.80,770.17,3.14), drop=6)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-379.45,4.80,770.17,-3.14), drop=6)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(629.58,2.08,660.03,2.36), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-629.58,2.08,660.03,2.36), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(615.81,2.28,861.32,0.79), drop=7)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-615.81,2.28,861.32,-0.79), drop=7)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(580.28,2.90,963.63,2.36), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-580.28,2.90,963.63,2.36), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1024.10,2.62,506.89,1.57), drop=8)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1024.10,2.62,506.89,-1.57), drop=8)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Sahagin, cycles=7F, pos=(1026.28,1.34,476.01,1.57), drop=1)
+spawn_monster(monster=Sahagin, cycles=7F, pos=(-1026.28,1.34,476.01,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(538.76,4.95,680.77,0.00), drop=27)
+spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(-538.76,4.95,680.77,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(616.85,5.32,599.45,0.00), drop=27)
+spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(-616.85,5.32,599.45,-0.00), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(665.29,5.98,929.55,1.57), drop=27)
+spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(-665.29,5.98,929.55,1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(931.08,7.78,718.37,1.57), drop=27)
+spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(-931.08,7.78,718.37,1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(948.89,4.95,957.66,1.57), drop=27)
+spawn_monster(monster=Thunder Bomb, cycles=7F, pos=(-948.89,4.95,957.66,1.57), drop=27)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Snow Mu, cycles=7F, pos=(901.82,8.69,1197.30,3.14), drop=1)
+spawn_monster(monster=Snow Mu, cycles=7F, pos=(-901.82,8.69,1197.30,3.14), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;
-spawn_monster(monster=Snow Mu, cycles=7F, pos=(973.27,11.72,1122.38,1.57), drop=1)
+spawn_monster(monster=Snow Mu, cycles=7F, pos=(-973.27,11.72,1122.38,1.57), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 pop;

@@ -55612,45 +55612,9 @@ pop;
 spawn_monster(monster=Nightmare, cycles=7F, pos=(-419.12,23.10,-323.32,0.00), drop=30)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 11]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 1]
-[4, 68, 50, 220, 41]715.44
-[43]
-[4, 65, 162, 102, 102]20.30
-[4, 67, 31, 43, 133]159.17
-[4, 0, 0, 0, 0]0.00
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 32]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 2]
-[4, 68, 90, 225, 236]875.53
-[43]
-[4, 66, 33, 51, 51]40.30
-[4, 67, 152, 143, 92]305.12
-[43]
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 31]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 3]
-[4, 68, 79, 177, 72]830.77
-[43]
-[4, 65, 162, 102, 102]20.30
-[4, 67, 39, 199, 174]167.78
-[4, 63, 200, 245, 195]1.57
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-715.44,20.30,159.17,-0.00), drop=11)
+spawn_chest(pos=(-875.53,40.30,-305.12,0.00), drop=32)
+spawn_chest(pos=(-830.77,20.30,167.78,-1.57), drop=31)
 pop;
 [3, 0, 0, 117, 48]
 [3, 0, 0, 0, 0]
@@ -55697,19 +55661,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-739.65,-0.05,315.68,-0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 19]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 10]
-[4, 68, 73, 105, 154]805.65
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 158, 215, 10]317.68
-[4, 0, 0, 0, 0]0.00
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-805.65,0.30,317.68,-0.00), drop=19)
 pop;
 [0, 0, 0, 1, 1]
 [3, 0, 0, 0, 1]
@@ -55718,20 +55670,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-805.65,0.30,317.68,-0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 19]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 10]
-[4, 68, 56, 233, 154]739.65
-[43]
-[4, 61, 76, 204, 205]0.05
-[43]
-[4, 67, 157, 215, 10]315.68
-[4, 0, 0, 0, 0]0.00
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-739.65,-0.05,315.68,-0.00), drop=19)
 pop;
 [0, 0, 0, 2, 1]
 [3, 0, 0, 0, 0]
@@ -55740,20 +55679,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-1175.80,0.30,-290.55,-1.57))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 19]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 11]
-[4, 68, 157, 249, 154]1263.80
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 143, 70, 102]286.55
-[43]
-[4, 64, 150, 184, 82]4.71
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-1263.80,0.30,-286.55,-4.71), drop=19)
 pop;
 [0, 0, 0, 2, 1]
 [3, 0, 0, 0, 1]
@@ -55762,20 +55688,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-1263.80,0.30,-290.55,-4.71))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 19]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 11]
-[4, 68, 146, 249, 154]1175.80
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 143, 70, 102]286.55
-[43]
-[4, 63, 200, 245, 195]1.57
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-1175.80,0.30,-286.55,-1.57), drop=19)
 pop;
 [0, 0, 0, 3, 1]
 [3, 0, 0, 0, 0]
@@ -55784,18 +55697,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-524.07,0.30,267.61,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 16]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 12]
-[4, 67, 236, 8, 246]472.07
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 151, 206, 20]303.61
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-472.07,0.30,303.61,0.00), drop=16)
 pop;
 [0, 0, 0, 3, 1]
 [3, 0, 0, 0, 1]
@@ -55804,18 +55706,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-472.07,0.30,303.61,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 16]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 12]
-[4, 68, 3, 4, 123]524.07
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 133, 206, 20]267.61
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-524.07,0.30,267.61,0.00), drop=16)
 pop;
 [0, 0, 0, 4, 1]
 [3, 0, 0, 0, 0]
@@ -55824,18 +55715,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-1247.67,0.30,311.20,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 16]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 13]
-[4, 68, 146, 117, 113]1171.67
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 155, 153, 154]311.20
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-1171.67,0.30,311.20,0.00), drop=16)
 pop;
 [0, 0, 0, 4, 1]
 [3, 0, 0, 0, 1]
@@ -55844,18 +55724,7 @@ pop;
 spawn_monster(monster=Mimic, cycles=7F, pos=(-1171.67,0.30,311.20,0.00))
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 16]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 13]
-[4, 68, 155, 245, 113]1247.67
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 67, 155, 153, 154]311.20
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-1247.67,0.30,311.20,0.00), drop=16)
 pop;
 [63]
 return;

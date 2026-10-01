@@ -41980,17 +41980,7 @@ pop;
 spawn_monster(monster=Gremlin, cycles=7F, pos=(561.27,0.30,394.56,-3.93), drop=15)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 13]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 25]
-[4, 68, 10, 236, 205]555.70
-[4, 62, 153, 153, 154]0.30
-[4, 67, 187, 206, 20]375.61
-[4, 0, 0, 0, 0]0.00
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(555.70,0.30,375.61,0.00), drop=13)
 pop;
 [63]
 return;

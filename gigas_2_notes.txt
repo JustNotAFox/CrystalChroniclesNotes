@@ -43095,20 +43095,7 @@ pop;
 spawn_monster(monster=Coeurl, cycles=7C, pos=(-663.99,0.34,-364.06,-1.56), drop=1)
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   0 ]
 Unknown spawn monster value: [ 0 ,   0 ,   0 ,   1 ]
-pop;
-[3, 0, 0, 0, 127]
-[3, 0, 0, 0, 11]
-[3, 0, 0, 0, 0]
-[3, 0, 0, 0, 10]
-[4, 68, 43, 124, 41]685.94
-[43]
-[4, 62, 153, 153, 154]0.30
-[4, 68, 4, 174, 184]530.73
-[43]
-[4, 64, 147, 133, 31]4.61
-[43]
-Unknown function 406 with unknown arguments
-[10, 255, 255, 1, 150]
+spawn_chest(pos=(-685.94,0.30,-530.73,-4.61), drop=11)
 pop;
 [63]
 return;
